@@ -1,0 +1,80 @@
+ID del documento: 0
+23x15px Australia;23x15px Australia;23x15px Australia;23x15px Australia;23x15px Fiji;23x15px Kiribati;23x15px Marshall Islands;23x15px Nauru;23x15px New Zealand;23x15px New Zealand;23x15px Palau;23x15px Papua New Guinea;23x15px Solomon Islands;23x15px Tuvalu;
+Canberra;Brisbane;Melbourne;Sydney;Suva;Tarawa;Majuro;Yaren;Wellington;Auckland;Koror;Port Moresby;Honiara;Funafuti;
+Taipei Economic and Cultural Office in Australia;Taipei Economic and Cultural Office, Brisbane, Australia;Taipei Economic and Cultural Office Melbourne;Taipei Economic and Cultural Office in Sydney;Trade Mission of the Republic of China, Suva, Republic of Fiji Islands;Embassy of the Republic of China (Taiwan), Tarawa, Republic of Kiribati;Embassy of the Republic of China (Taiwan), Majuro, Republic of the Marshall Islands;Embassy of the Republic of China (Taiwan), Yaren, Republic of Nauru;Taipei Economic and Cultural Office in New Zealand;Taipei Economic and Cultural Office, Auckland;Embassy of the Republic of China (Taiwan) in the Republic of Palau;Trade Mission of the Republic of China (Taiwan) in Papua New Guinea;Embassy of the Republic of China (Taiwan) in Solomon Islands;Embassy of the Republic of China (Taiwan) to Tuvalu;
+
+Tabella query: 
+
+
+ID del documento: 0
+9th Asia Pacific Screen Awards;10th Asian Film Awards;10th Asian Film Awards;10th Asian Film Awards;
+Best Performance by an Actress;Best Actor;Best Costume Designer;Best Production Designer;
+Shamaine Buencamino, Lorna;John Arcilla, Heneral Luna;Carlo Tabije , Heneral Luna;Benjamin Padero, Carlo Tabije, Heneral Luna;
+
+Tabella query: 
+
+
+ID del documento: 0
+2009;2015;
+23x15px Goyang, South Korea;23x15px Toronto, Canada;
+69 kg;77 kg;
+
+Tabella query: 
+
+
+ID del documento: 0
+Home team;Carlton;St Kilda;South Melbourne;Geelong;
+Away team;Melbourne;Collingwood;Essendon;Fitzroy;
+Venue;Princes Park;Junction Oval;Lake Oval;Corio Oval;
+
+Tabella query: 
+
+
+ID del documento: 0
+1896;1900 Details;1904 Details;1908 Details;1912 Details;1920 Details;1924 Details;1924 Details;1928 Details;1928 Details;1932;1936 Details;1948 Details;1952 Details;1956 Details;1960 Details;1964 Details;1968 Details;1972 Details;1976 Details;1980 Details;1984 Details;1988 Details;1992 Details;1996 Details;2000 Details;2000 Details;2004 Details;2008 Details;2012 Details;2016 Details;2016 Details;2020 Details;
+23x15px Athens;23x15px Paris;23x15px St. Louis;23x15px London;23x15px Stockholm;23x15px Antwerp;23x15px Paris;23x15px Paris;23x15px Amsterdam;23x15px Amsterdam;23x15px Los Angeles;23x15px Berlin;23x15px London;23x15px Helsinki;23x15px Melbourne;23x15px Rome;23x15px Tokyo;23x15px Mexico City;23x15px Munich;23x15px Montreal;23x15px Moscow;23x15px Los Angeles;23x15px Seoul;23x15px Barcelona;23x15px Atlanta;23x15px Sydney;23x15px Sydney;23x15px Athens;23x15px Beijing;23x15px London;23x15px Rio de Janeiro;23x15px Rio de Janeiro;23x15px Tokyo;
+No football tournament;30px Great Britain;30px Canada;30px Great Britain;30px Great Britain;30x27px Belgium;30x27px Uruguay;30x27px Uruguay;30x27px Uruguay;Match replay: 2 – 1;No football tournament;30x27px Italy;30x27px Sweden;30x27px Hungary;30x27px Soviet Union;30x27px Yugoslavia;30x27px Hungary;30x27px Hungary;30x27px Poland;30x27px East Germany;30x27px Czechoslovakia;30x27px France;30x27px Soviet Union;30x27px Spain;30x27px Nigeria;30x27px Cameroon;5 – 3 on penalty shootout;30x27px Argentina;30x27px Argentina;30x27px Mexico;30x27px Brazil;5 – 4 on penalty shootout;;
+No football tournament;;;2 – 0;4 – 2;;3 – 0;3 – 0;1 – 1 aet;Match replay: 2 – 1;No football tournament;2 – 1 aet;3 – 1;2 – 0;1 – 0;3 – 1;2 – 1;4 – 1;2 – 1;3 – 1;1 – 0;2 – 0;2 – 1 aet;3 – 2;3 – 2;2 – 2 asdet;5 – 3 on penalty shootout;1 – 0;1 – 0;2 − 1;1 – 1 aet;5 – 4 on penalty shootout;;
+No football tournament;30px France;30px United States;30x27px Denmark;30x27px Denmark;30x27px Spain;23x16px Switzerland;23x16px Switzerland;30x27px Argentina;Match replay: 2 – 1;No football tournament;30x27px Austria;30x27px Yugoslavia;30x27px Yugoslavia;30x27px Yugoslavia;30x27px Denmark;30x27px Czechoslovakia;30x27px Bulgaria;30x27px Hungary;30x27px Poland;30x27px East Germany;30x27px Brazil;30x27px Brazil;30px Poland;30x27px Argentina;30x27px Spain;5 – 3 on penalty shootout;30x27px Paraguay;30x27px Nigeria;30x27px Brazil;30px Germany;5 – 4 on penalty shootout;;
+No football tournament;30px Belgium;30px United States;30x27px Netherlands;30x27px Netherlands;30x27px Netherlands;30x27px Sweden;Match replay: 3 – 1;30x27px Italy;30x27px Italy;No football tournament;30x27px Norway;30x27px Denmark;30x27px Sweden;30x27px Bulgaria;30x27px Hungary;30px Germany;30x27px Japan;30x27px Soviet Union 30x27px East Germany;30x27px Soviet Union;30x27px Soviet Union;30x27px Yugoslavia;30px West Germany;30x27px Ghana;30x27px Brazil;30x27px Chile;30x27px Chile;30x27px Italy;30x27px Brazil;30x27px South Korea;30x27px Nigeria;30x27px Nigeria;;
+No football tournament;;;2 – 0;9 – 0;;1 – 1 aet;Match replay: 3 – 1;11 – 3;11 – 3;No football tournament;3 – 2;5 – 3;2 – 0;3 – 0;2 – 1;3 – 1;2 – 0;2 – 2 aet;2 – 0;2 – 0;2 – 1;3 – 0;1 – 0;5 – 0;2 – 0;2 – 0;1 – 0;3 – 0;2 − 0;3 − 2;3 − 2;;
+No football tournament;only three nations entered;only three teams entered;30x27px Sweden;30px Finland;30x27px France;30x27px Netherlands;Match replay: 3 – 1;30x27px Egypt;30x27px Egypt;No football tournament;30x27px Poland;30px Great Britain;30px West Germany;30x27px India;30x27px Italy;30x27px United Arab Republic;30x27px Mexico;;30x27px Brazil;30x27px Yugoslavia;30x27px Italy;30x27px Italy;30px Australia;30px Portugal;30x27px United States;30x27px United States;30x27px Iraq;30x27px Belgium;30x27px Japan;30x27px Honduras;30x27px Honduras;;
+
+Tabella query: 
+
+
+ID del documento: 0
+;;;;Majority;Turnout;;
+Liberal Democrat;Labour;Conservative;Green;Majority;Turnout;Liberal Democrat gain from Labour;
+James Souper;Judith Blake;Graham Castle;David Webb;Majority;Turnout;Liberal Democrat gain from Labour;
+2,267;2,023;1,049;233;244;5,572;Swing;
+
+Tabella query: 
+
+
+ID del documento: 0
+Japan Japan (JPN);South Korea South Korea (KOR);23x15px Europe 1;23x15px Intercontinental 1;Germany Germany (GER);Hong Kong Hong Kong (HKG);Chinese Taipei Chinese Taipei (TPE);France France (FRA);Singapore Singapore (SIN);Croatia Croatia (CRO);23x15px Europe 2;Thailand Thailand (THA);Egypt Egypt (EGY);Netherlands Netherlands (NED);Hungary Hungary (HUN);23x15px Pan America 1;23x15px Europe 3;Brazil Brazil (BRA);23x15px Europe 4;23x15px Europe 5;North Korea North Korea (PRK);23x15px Intercontinental 2;23x15px Pan America 2;India India (IND);23x15px Europe 6;23x15px Africa 1;23x15px Intercontinental 3;Sri Lanka Sri Lanka (SRI);New Zealand New Zealand (NZL);23x15px Pan America 3;23x15px Intercontinental 4;23x15px Africa 2;
+22x20px Ayuka Tanioka (JPN);22x20px Yang Ha-Eun (KOR);22x20px Bernadette Szocs (ROU);22x20px Gu Yuting (CHN);22x20px Petrissa Solja (GER);22x20px Ng Ka Yee (HKG);22x20px Huang Hsin (TPE);22x20px Celine Pang (FRA);22x20px Isabelle Siyun LI (SIN);22x20px Mateja Jeger (CRO);22x20px Maria Xiao (POR);22x20px Sutashini Sawetabut (THA);22x20px Dina Mesheref (EGY);22x20px Britt Eerland (NED);22x20px Mercedes Nagyvaradi (HUN);22x20px Ariel Hsing (USA);22x20px Alice Loveridge (GBR);22x20px Caroline Kumahara (BRA);22x20px Olga Bliznet (MDA);22x20px Katsiaryna Baravok (BLR);22x20px Kim Song-I (PRK);22x20px Yana Noskova (RUS);22x20px Carelyn Cordero (PUR);22x20px Mallika Bhandarkar (IND);22x20px Alekseja Galič (SLO);22x20px Islem Laid (ALG);22x20px Lily Phan (AUS);22x20px Nuwani G. Vithange (SRI);22x20px Julia Wu (NZL);22x20px Adielle Roshuevel (GUY);22x20px Letizia Giardi (SMR);22x20px Jolie Mafuta Ivoso (CGO);
+22x20px Koki Niwa (JPN);22x20px Kim Dong-Hyun (KOR);22x20px Hampus Soderlund (SWE);22x20px Adem Hmam (TUN);22x20px Florian Wagner (GER);22x20px Chiu Chung Hei (HKG);22x20px Hung Tzu-Hsiang (TPE);22x20px Simon Gauzy (FRA);22x20px Clarence Chew (SIN);22x20px Luka Fucek (CRO);22x20px Emilen Vanrossomme (BEL);22x20px Tanapol Santiwattanatarm (THA);22x20px Bedair Omar (EGY);22x20px Koen Hageraats (NED);22x20px Tamas Lakatos (HUN);22x20px Axel Gavilan (PAR);22x20px Leornado Mutti (ITA);22x20px Jouti Eric (BRA);22x20px Konrad Kulpa (POL);22x20px Ondrej Bajger (CZE);22x20px Kim Kwang-Song (PRK);22x20px Elmurod Holikov (UZB);22x20px Pablo Saragovi (ARG);22x20px Avik Das (IND);22x20px Stefan Leitgeb (AUT);22x20px Ojo Onalaopo (NGR);22x20px Luis Mejia (ESA);22x20px Hasintha Arsa Marakkala (SRI);22x20px Kevin Wu (NZL);22x20px Rodrigo Tapia (ECU);22x20px Patrick Massah (MAW);22x20px Warren Li Kam Wa (MRI);
+
+Tabella query: 
+
+
+ID del documento: 0
+Nathan Chen;Timothy Dolensky;Philip Warren;Harrison Choate;Lukas Kaugars;Timothy Koleto;Jay Yostanto;Troy Tomasello;Ryan Hartley;Andrew Nagode;David Wang;Emmanuel Savary;
+2;1;5;10;4;3;6;7;11;9;8;12;
+63.15;63.20;57.42;45.18;57.96;59.18;54.72;53.90;44.67;47.91;52.62;36.37;
+1;3;2;4;6;10;7;8;5;11;12;9;
+130.75;124.64;124.75;118.25;96.99;89.83;93.82;93.46;97.18;87.08;80.10;93.08;
+
+Tabella query: 
+
+
+ID del documento: 0
+Trujillanos FC;Dvo Italia;Zamora FC;Dvo Anzoátegui;
+3-2;1-6;2-3;3-4;
+Carabobo FC;Caracas FC;Dvo. Táchira;Monagas SC;
+
+Tabella query: 
+
+

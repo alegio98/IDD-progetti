@@ -1,0 +1,3001 @@
+Nome,Rank,Sector,Entry Annual,CEO,Head Country,Region,WebSite
+"
+APPLE
+",1,Technology,"274,510.000 Million USD",Tim Cook,USA,Northern America,https://www.apple.com/
+"
+SAUDI ARABIAN OIL COMPANY (Saudi Aramco)
+",3,Energy,"232,740.000 Million USD",Amin H. Al-Nasser,Saudi Arabia,Western Asia,https://www.saudiaramco.com/
+"
+AMAZON.COM
+",5,eCommerce,"386,060.000 Million USD",Andy Jassy,USA,Northern America,https://www.amazon.com/
+"
+MICROSOFT CORPORATION
+",2,Technology,"143,000.000 Million USD",Satya Nadella,USA,Northern America,https://www.microsoft.com/
+"
+ALPHABET
+",4,Technology,"182,520.000 Million USD",Sundar Pichai,USA,Northern America,https://abc.xyz/
+"
+META PLATFORMS
+",7,Communication Services,"85,960.000 Million USD",Mark Zuckerberg,USA,Northern America,https://www.facebook.com/
+"
+ALIBABA GROUP HOLDING
+",26,eCommerce,"110,920.000 Million USD",Daniel Zhang,China,Eastern Asia,https://www.alibaba.com/
+"
+TENCENT
+",11,Communication Services,"56,592.000 Million USD",Ma Huateng,China,Eastern Asia,https://www.tencent.com
+"
+BERKSHIRE HATHAWAY
+",8,Financial Services,"286,260.000 Million USD",Warren Buffett,USA,Northern America,https://www.berkshirehathaway.com/
+"
+VISA
+",13,Financial Services,"21,840.000 Million USD",Alfred F Kelly Jr,USA,Northern America,https://www.visa.com/
+"
+JOHNSON & JOHNSON
+",14,Healthcare,"82,580.000 Million USD",Alex Gorsky,USA,Northern America,https://www.jnj.com/
+"
+TESLA
+",6,Electric Vehicles,"31,530.000 Million USD",Elon Musk,USA,Northern America,https://www.tesla.com/
+"
+TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY (TSMC)
+",10,Technology,"48,211.000 Million USD",C. C. Wei,Taiwan,South East Asia,https://www.tsmc.com/
+"
+WALMART
+",20,Retail,"523,960.000 Million USD",Doug McMillon,USA,Northern America,https://www.walmart.com/
+"
+NESTLE AG
+",23,Consumer Defensive,"92,301.000 Million USD",Ulf Mark Schneider,Switzerland,Western Europe,https://www.nestle.com/
+"
+PROCTER & GAMBLE COMPANY
+",21,Consumer Defensive,"70,950.000 Million USD",David S. Taylor,USA,Northern America,https://pg.com/
+"
+MASTERCARD
+",24,Digital Payment Solution Services,"15,300.000 Million USD",Ajaypal Singh Banga,USA,Northern America,https://www.mastercard.com/
+"
+SAMSUNG ELECTRONICS
+",15,Technology,"208,390.000 Million USD",Kim Hyun Suk,South Korea,Eastern Asia,https://www.samsung.com
+"
+NVIDIA CORPORATION
+",9,Technology,"10,910.000 Million USD",Jensen Huang,USA,Northern America,http://www.nvidia.com/
+"
+HOME DEPOT
+",17,Retail,"110,220.000 Million USD",Craig Menear,USA,Northern America,https://www.homedepot.com/
+"
+ROCHE HOLDING AG
+",25,Healthcare,"63,569.000 Million USD",Severin Schwan,Switzerland,Western Europe,https://www.roche.com/
+"
+UNITEDHEALTH GROUP
+",16,Healthcare,"255,630.000 Million USD",David S. Wichmann,USA,Northern America,https://www.unitedhealthgroup.com/
+"
+J P MORGAN CHASE & CO
+",12,Financial Services,"122,900.000 Million USD",Jamie Dimon,USA,Northern America,https://www.jpmorganchase.com/
+"
+KWEICHOW MOUTAI
+",22,Consumer Defensive,"12,814.000 Million USD",Li Bao Fang,China,Eastern Asia,NULL
+"
+ICBC
+",36,Financial Services,"136,290.000 Million USD",Nicolas Jimenez,China,Eastern Asia,https://www.icbc.com/
+"
+VERIZON COMMUNICATIONS
+",52,Communication Services,"128,290.000 Million USD",Hans Vestberg,USA,Northern America,https://www.verizon.com/
+"
+PING AN INSURANCE (GROUP) COMPANY OF CHINA
+",88,Financial Services,"166,950.000 Million USD",Ma Mingzhe,China,Eastern Asia,http://www.pingan.com/
+"
+PAYPAL HOLDINGS
+",55,Financial Services,"21,450.000 Million USD",Daniel Schulman,USA,Northern America,https://www.paypal.com/
+"
+THE WALT DISNEY COMPANY
+",30,Communication Services,"65,380.000 Million USD",Bob Chapek,USA,Northern America,https://www.thewaltdisneycompany.com/
+"
+LVMH
+",18,Fashion and Luxury Goods,"52,663.000 Million USD",Bernard Arnault,France,Western Europe,https://www.lvmh.com/
+"
+ADOBE
+",40,Technology,"12,860.000 Million USD",Shantanu Narayen,USA,Northern America,https://www.adobe.com/
+"
+NETFLIX
+",44,Communication Services,"24,990.000 Million USD",Ted Sarandos,USA,Northern America,https://www.netflix.com/in/
+"
+BANK OF AMERICA CORPORATION
+",19,Financial Services,"85,530.000 Million USD",Brian Moynihan,USA,Northern America,https://www.bankofamerica.com/
+"
+PFIZER
+",27,Healthcare,"41,910.000 Million USD",Albert Bourla,USA,Northern America,https://www.pfizer.com/
+"
+MERCK & CO
+",59,Healthcare,"47,990.000 Million USD",Kenneth C. Frazier,USA,Northern America,https://www.merck.com/index.html
+"
+AT&T
+",67,Telecom,"171,760.000 Million USD",John T. Stankey,USA,Northern America,https://www.att.com/
+"
+INTEL CORPORATION
+",57,Technology,"77,860.000 Million USD",Bob Swan,USA,Northern America,https://www.intel.com
+"
+COCA-COLA COMPANY
+",32,Consumer Defensive,"33,010.000 Million USD",James Quincey,USA,Northern America,https://www.coca-colacompany.com/
+"
+COMCAST CORPORATION
+",51,Communication Services,"103,560.000 Million USD",Brian L. Roberts,USA,Northern America,https://corporate.comcast.com/
+"
+NOVARTIS AG
+",61,Healthcare,"49,890.000 Million USD",Vasant Narasimhan,Switzerland,Western Europe,https://www.novartis.com/
+"
+SAP SE
+",80,Technology,"32,249.000 Million USD",Christian Klein,Germany,Western Europe,https://www.sap.com/
+"
+PEPSICO
+",42,Consumer Defensive,"70,370.000 Million USD",Ramon Laguarta,USA,Northern America,https://www.pepsico.com/
+"
+CHINA CONSTRUCTION BANK CORPORATION
+",69,Financial Services,"105,750.000 Million USD",NULL,China,Eastern Asia,http://en.ccb.com
+"
+SALESFORCE.COM
+",53,Technology,"21,252.000 Million USD",Marc Benioff,USA,Northern America,https://www.salesforce.com
+"
+MEITUAN DIANPING
+",83,Consumer Cyclical,"115,070.000 Million USD",Wang Xing,China,Eastern Asia,https://www.meituan.com/
+"
+TOYOTA MOTOR CORPORATION
+",31,Automobile,"272,360.000 Million USD",Akio Toyoda,Japan,Eastern Asia,https://www.toyota-global.com/
+"
+RELIANCE INDUSTRIES
+",54,Energy,"85,696.000 Million USD",Mukesh Ambani,India,Southern Asia,https://www.ril.com/
+"
+ABBOTT LABORATORIES
+",43,Healthcare,"34,600.000 Million USD",Robert Ford,USA,Northern America,http://www.abbott.com/
+"
+L'OREAL
+",37,Consumer Defensive,"33,028.000 Million USD",Jean Paul Agon,France,Western Europe,https://www.loreal.com/
+"
+CISCO SYSTEMS
+",33,Technology,"49,300.000 Million USD",Chuck Robbins,USA,Northern America,https://www.cisco.com/
+"
+EXXON MOBIL CORPORATION
+",29,Energy,"181,500.000 Million USD",Darren Woods,USA,Northern America,https://corporate.exxonmobil.com/
+"
+NIKE
+",38,Consumer Cyclical,"37,420.000 Million USD",John Donahoe,USA,Northern America,https://www.nike.com/
+"
+THERMO FISHER SCIENTIFIC
+",45,Healthcare,"32,210.000 Million USD",Marc N. Casper,USA,Northern America,https://www.thermofisher.com/in/en/home.html
+"
+ORACLE CORPORATION
+",49,Technology,"39,070.000 Million USD",Safra A. Catz,USA,Northern America,https://www.oracle.com/
+"
+ABBVIE
+",46,Healthcare,"45,800.000 Million USD",Richard A. Gonzalez,USA,Northern America,https://www.abbvie.com/
+"
+AGRICULTURAL BANK OF CHINA
+",81,Financial Services,"94,080.000 Million USD",Zhou Mubing,China,Eastern Asia,http://www.abchina.com/en/
+"
+CHEVRON CORPORATION
+",41,Energy,"94,470.000 Million USD",Michael Wirth,USA,Northern America,https://www.chevron.com/
+"
+MCDONALD'S CORPORATION
+",63,Consumer Cyclical,"19,200.000 Million USD",Chris Kempczinski,USA,Northern America,https://www.mcdonalds.com/
+"
+UNILEVER GROUP
+",100,Consumer Defensive,"59,850.000 Million USD",Alan Jope,Netherlands,Northern Europe,https://www.unilever.com/
+"
+PROSUS
+",35,Communication Services,"3,330.000 Million USD",Bob van Dijk,Netherlands,Western Europe,https://www.prosus.com/
+"
+ASML HOLDING
+",28,Technology,"16,485.000 Million USD",Peter Wennink,Netherlands,Western Europe,https://www.asml.com/asml/en/s427
+"
+NOVO NORDISK A/S
+",50,Healthcare,"20,310.000 Million USD",Lars Fruergaard Jorgensen,Denmark,Northern Europe,https://www.novonordisk.com
+"
+CHINA MOBILE
+",112,Communication Services,"111,890.000 Million USD",Li Yue,China,Eastern Asia,https://www.chinamobileltd.com/
+"
+COSTCO WHOLESALE CORPORATION
+",47,Consumer Defensive,"166,760.000 Million USD",W. Craig Jelinek,USA,Northern America,https://www.costco.com/
+"
+ACCENTURE
+",48,Technology,"44,320.000 Million USD",Julie Sweet,Ireland,Northern Europe,https://www.accenture.com/
+"
+BANK OF CHINA
+",102,Financial Services,"82,215.000 Million USD",Gao Yingxin,China,Eastern Asia,https://www.boc.cn/en/
+"
+CHINA LIFE INSURANCE COMPANY
+",133,Financial Services,"109,410.000 Million USD",Dairen Lin,China,Eastern Asia,https://www.chinalife.com.cn
+"
+DANAHER CORPORATION
+",58,Healthcare,"22,280.000 Million USD",Rainer M. Blair,USA,Northern America,http://www.danaher.com/
+"
+ASTRAZENECA
+",71,Healthcare,"26,617.000 Million USD",Pascal Soriot,UK,Northern Europe,https://www.astrazeneca.com/
+"
+T-MOBILE US
+",101,Communication Services,"68,390.000 Million USD",Mike Sievert,USA,Northern America,https://www.t-mobile.com/
+"
+ELI LILLY AND COMPANY
+",39,Healthcare,"24,530.000 Million USD",David A. Ricks,USA,Northern America,https://www.lilly.com/
+"
+CHINA MERCHANTS BANK
+",62,Financial Services,"40,185.000 Million USD",Huiyu Tian,China,Eastern Asia,http://www.cmbchina.com/
+"
+BRISTOL-MYERS SQUIBB COMPANY
+",96,Healthcare,"42,510.000 Million USD",Giovanni Caforio,USA,Northern America,https://www.bms.com/
+"
+AMGEN
+",113,Healthcare,"25,420.000 Million USD",Robert A. Bradway,USA,Northern America,https://www.amgen.com/
+"
+NEXTERA ENERGY
+",75,Utilities,"17,990.000 Million USD",James L Robo,USA,Northern America,http://www.nexteraenergy.com/
+"
+BHP GROUP
+",79,Basic Materials,"42,930.000 Million USD",Mike Henry,Australia,"Australia, New Zealand",https://www.bhp.com/
+"
+UNITED PARCEL SERVICE (UPS)
+",66,Industries,"84,630.000 Million USD",Carol B. Tome,USA,Northern America,https://www.ups.com
+"
+BROADCOM
+",34,Technology,"23,880.000 Million USD",Hock E. Tan,USA,Northern America,https://www.broadcom.com/
+"
+MEDTRONIC
+",95,Healthcare,"28,910.000 Million USD",Geoffrey S. Martha,Ireland,Northern Europe,https://www.medtronic.com/
+"
+UNION PACIFIC CORPORATION
+",78,Industries,"19,530.000 Million USD",Lance M. Fritz,USA,Northern America,https://www.up.com/
+"
+TEXAS INSTRUMENTS
+",77,Technology,"14,460.000 Million USD",Richard K. Templeton,USA,Northern America,http://www.ti.com/
+"
+LINDE AG
+",74,Basic Materials,"27,240.000 Million USD",Steve Angel,UK,Northern Europe,https://www.the-linde-group.com
+"
+SANOFI
+",116,Healthcare,"44,097.000 Million USD",Paul Hudson,France,Western Europe,https://www.sanofi.com/en/
+"
+QUALCOMM
+",60,Technology,"23,530.000 Million USD",Cristiano R. Aman,USA,Northern America,https://www.qualcomm.com/
+"
+CHARTER COMMUNICATIONS
+",135,Communication Services,"48,090.000 Million USD",Thomas M. Rutledge,USA,Northern America,https://www.spectrum.com/
+"
+SHOPIFY
+",93,Technology,"2,930.000 Million USD",Tobias Lutke,Canada,Northern America,https://www.shopify.com
+"
+LOWE'S COMPANIES
+",76,Consumer Cyclical,"89,590.000 Million USD",Marvin Ellison,USA,Northern America,https://www.lowes.com/
+"
+PHILIP MORRIS INTERNATIONAL
+",87,Consumer Defensive,"28,690.000 Million USD",Jacek Olczak,USA,Northern America,https://www.pmi.com/
+"
+WULIANGYE YIBIN
+",110,Consumer Defensive,"7,515.000 Million USD",Chen Lin,China,Eastern Asia,http://www.wuliangye.com.cn
+"
+AIA GROUP
+",119,Financial Services,"50,360.000 Million USD",Lee Yuan Siong,Hong Kong,Eastern Asia,http://www.aia.com/
+"
+JD.COM
+",141,Consumer Cyclical,"111,870.000 Million USD",Liu Qiangdong,China,Eastern Asia,http://www.jd.com/
+"
+SOFTBANK GROUP
+",202,Communication Services,"56,284.000 Million USD",Masayoshi Son,Japan,Eastern Asia,https://www.softbank.jp
+"
+SIEMENS
+",97,Industries,"102,480.000 Million USD",Joe Kaeser,Germany,Western Europe,https://www.siemens.com/
+"
+ROYAL DUTCH SHELL
+",70,Energy,"180,640.000 Million USD",Ben van Beurden,Netherlands,Western Europe,https://www.shell.com/
+"
+AMERICAN TOWER CORPORATION (REIT)
+",121,Real Estate,"7,580.000 Million USD",Tom Bartlett,USA,Northern America,http://www.americantower.com/
+"
+HONEYWELL INTERNATIONAL
+",89,Industries,"32,630.000 Million USD",Darius Adamczyk,USA,Northern America,https://www.honeywell.com/
+"
+TATA CONSULTANCY SERVICES (TCS)
+",65,Technology,"20,404.000 Million USD",Rajesh Gopinathan,India,Southern Asia,https://www.tcs.com/
+"
+IBM
+",123,Technology,"77,150.000 Million USD",Arvind Krishna,USA,Northern America,https://www.ibm.com/
+"
+ANHEUSER-BUSCH INBEV
+",134,Consumer Defensive,"46,880.000 Million USD",Michel Doukeris,Belgium,Western Europe,https://www.ab-inbev.com/
+"
+LOCKHEED MARTIN CORPORATION
+",158,Industries,"59,810.000 Million USD",Marillyn Hewson,USA,Northern America,https://www.lockheedmartin.com/
+"
+PETROCHINA COMPANY
+",91,Energy,"298,550.000 Million USD",Wang Dongjin,China,Eastern Asia,http://www.petrochina.com.cn
+"
+ROYAL BANK OF CANADA
+",84,Financial Services,"37,367.000 Million USD",David I. McKay,Canada,Northern America,https://www.rbcroyalbank.com
+"
+CITI GROUP
+",111,Financial Services,"74,290.000 Million USD",Michael Corbat,USA,Northern America,https://www.citigroup.com
+"
+GLAXOSMITHKLINE
+",132,Healthcare,"46,575.000 Million USD",Dame Emma Walmsley,UK,Northern Europe,https://www.gsk.com/
+"
+KEYENCE CORPORATION
+",94,Technology,"5,021.400 Million USD",Yu Nakata,Japan,Eastern Asia,https://www.keyence.com/
+"
+PINDUODUO
+",247,Consumer Cyclical,"8,923.500 Million USD",Colin Huang Zheng,China,Eastern Asia,https://m.pinduoduo.com/en/
+"
+TOTALENERGIES SE
+",98,Energy,"119,700.000 Million USD",Patrick Pouyanne,France,Western Europe,https://totalenergies.com/
+"
+ADVANCED MICRO DEVICES (AMD)
+",85,Technology,"6,730.000 Million USD",Lisa Su,USA,Northern America,https://www.amd.com/en
+"
+WELLS FARGO & COMPANY
+",56,Financial Services,"72,340.000 Million USD",Charles W. Scharf,USA,Northern America,https://www.wellsfargo.com/
+"
+CSL
+",162,Healthcare,"13,260.000 Million USD",Paul Perreault,Australia,"Australia, New Zealand",https://www.csl.com/
+"
+SONY CORPORATION
+",86,Technology,"75,164.000 Million USD",Kenichiro Yoshida,Japan,Eastern Asia,https://www.sony.net/
+"
+CAESARS ENTERTAINMENT CORPORATION
+","1,076",Consumer Cyclical,"3,474.000 Million USD",NULL,USA,Northern America,https://www.caesars.com
+"
+BOEING COMPANY
+",115,Industries,"58,160.000 Million USD",Dave Calhoun,USA,Northern America,http://www.boeing.com/
+"
+NTT DOCOMO
+",152,Communication Services,"42,999.000 Million USD",Kazuhiro Yoshizawa,Japan,Eastern Asia,https://www.nttdocomo.co.jp/
+"
+3M COMPANY
+",147,Industries,"32,140.000 Million USD",Mike Roman,USA,Northern America,https://www.3m.com/
+"
+ENEL
+",208,Utilities,"73,775.000 Million USD",Francesco Starace,Italy,South Europe,https://www.enel.com/
+"
+RAYTHEON TECHNOLOGIES CORPORATION
+",104,Industries,"77,040.000 Million USD",Gregory Hayes,USA,Northern America,http://www.utc.com/Pages/Home.aspx
+"
+NIPPON TELEGRAPH AND TELEPHONE CORPORATION
+",151,Communication Services,"108,110.000 Million USD",Jun Sawada,Japan,Eastern Asia,http://www.ntt.co.jp
+"
+STARBUCKS CORPORATION
+",117,Consumer Cyclical,"23,510.000 Million USD",Kevin Johnson,USA,Northern America,https://www.starbucks.com/
+"
+BLACKROCK
+",103,Financial Services,"14,540.000 Million USD",Laurence D. Fink,USA,Northern America,https://www.blackrock.com/
+"
+COMMONWEALTH BANK OF AUSTRALIA
+",118,Financial Services,"16,923.000 Million USD",Matt Comyn,Australia,"Australia, New Zealand",https://www.commbank.com.au/
+"
+ALLIANZ SE
+",148,Financial Services,"133,330.000 Million USD",Oliver Bate,Germany,Western Europe,https://www.allianz.com
+"
+FIDELITY NATIONAL INFORMATION SERVICES
+",239,Technology,"10,330.000 Million USD",Gary A. Norcross,USA,Northern America,https://www.fisglobal.com/
+"
+HSBC HOLDINGS
+",108,Financial Services,"68,060.000 Million USD",Noel Quinn,UK,Northern Europe,https://www.hsbc.com/
+"
+S&P GLOBAL
+",137,Financial Services,"6,690.000 Million USD",Douglas L. Peterson,USA,Northern America,https://www.spglobal.com
+"
+HERMES INTERNATIONAL
+",73,Consumer Cyclical,"8,121.900 Million USD",Axel Dumas,France,Western Europe,https://www.hermes.com/us/en/
+"
+SERVICENOW
+",129,Technology,"3,460.000 Million USD",Bill McDermott,USA,Northern America,https://www.servicenow.com/
+"
+INDITEX (INDUSTRIA DE DISENO TEXTIL)
+",159,Consumer Cyclical,"33,370.000 Million USD",Pablo Isla,Spain,South Europe,https://www.inditex.com/
+"
+TORONTO-DOMINION BANK
+",90,Financial Services,"34,568.000 Million USD",Bharat Masrani,Canada,Northern America,https://www.td.com
+"
+VOLKSWAGEN
+",106,Consumer Cyclical,"298,100.000 Million USD",Herbert Diess,Germany,Western Europe,https://www.volkswagenag.com/
+"
+INTUIT
+",82,Technology,"7,670.000 Million USD",Sasan K. Goodarzi,USA,Northern America,https://www.intuit.com/
+"
+CVS HEALTH CORPORATION
+",99,Healthcare,"156,770.000 Million USD",Larry J. Merlo,USA,Northern America,https://cvshealth.com/
+"
+GILEAD SCIENCES
+",180,Healthcare,"22,450.000 Million USD",Daniel O'Day,USA,Northern America,http://www.gilead.com/
+"
+DEUTSCHE TELEKOM AG
+",169,Communication Services,"118,850.000 Million USD",Timotheus Hottges,Germany,Western Europe,https://www.telekom.com/en
+"
+MONDELEZ INTERNATIONAL
+",167,Consumer Defensive,"25,860.000 Million USD",Dirk Van de Put,USA,Northern America,https://www.mondelezinternational.com/
+"
+ZOOM VIDEO COMMUNICATIONS
+",372,Communication Services,623.000 Million USD,NULL,USA,Northern America,https://zoom.us/
+"
+INTUITIVE SURGICAL
+",126,Healthcare,"4,470.000 Million USD",Gary S Guthart,USA,Northern America,https://www.intuitive.com/
+"
+AUDI AG
+",171,Consumer Cyclical,"212,870.000 Million USD",Markus Duesmann,Germany,Western Europe,https://www.audi.com
+"
+ALTRIA GROUP
+",171,Consumer Defensive,"19,790.000 Million USD",Howard Willard,USA,Northern America,http://www.altria.com
+"
+MORGAN STANLEY
+",68,Financial Services,"45,260.000 Million USD",James P. Gorman,USA,Northern America,https://www.morganstanley.com/
+"
+IBERDROLA
+",236,Utilities,"42,987.000 Million USD",Jose Ignacio Sanchez Galan,Spain,South Europe,http://www.iberdrola.es/
+"
+DIAGEO
+",120,Consumer Defensive,"16,215.000 Million USD",Ivan Menezes,UK,Northern Europe,https://www.diageo.com/
+"
+HDFC BANK
+",127,Financial Services,"19,119.000 Million USD",Sashidhar Jagdishan,India,Southern Asia,https://www.hdfcbank.com/
+"
+AMERICAN EXPRESS COMPANY
+",105,Financial Services,"30,890.000 Million USD",Stephen Squeri,USA,Northern America,https://www.americanexpress.com/
+"
+NASPERS
+",639,Communication Services,"3,122.900 Million USD",Bob van Dijk,South Africa,Southern Africa,https://www.naspers.com/
+"
+AIR LIQUIDE
+",195,Basic Materials,"25,866.000 Million USD",Benoit Potier,France,Western Europe,https://www.airliquide.com/
+"
+TARGET CORPORATION
+",131,Consumer Defensive,"78,110.000 Million USD",Brian Cornell,USA,Northern America,https://www.target.com/
+"
+RIO TINTO GROUP
+",124,Basic Materials,"44,610.000 Million USD",Jean-Sebastien Jacques,UK,Northern Europe,https://www.riotinto.com/en
+"
+BRITISH AMERICAN TOBACCO
+",178,Consumer Defensive,"35,701.000 Million USD",Jack Bowles,UK,Northern Europe,https://www.bat.com/
+"
+CHUGAI PHARMACEUTICAL
+",355,Healthcare,"6,243.500 Million USD",Tatsuro Kosaka,Japan,Eastern Asia,https://www.chugai-pharm.co.jp
+"
+CANADIAN NATIONAL RAILWAY COMPANY
+",186,Industries,"10,945.000 Million USD",Jean-Jacques Ruest,Canada,Northern America,https://www.cn.ca
+"
+PROLOGIS
+",128,Real Estate,"3,330.000 Million USD",Hamid Moghadam,USA,Northern America,https://www.prologis.com/
+"
+ZOETIS
+",156,Healthcare,"6,260.000 Million USD",Kristin C. Peck,USA,Northern America,https://www.zoetis.com/
+"
+FOSHAN HAITIAN FLAVOURING AND FOOD COMPANY
+",235,Consumer Defensive,"2,968.500 Million USD",Pang Kang,China,Eastern Asia,http://www.haitian-food.com/
+"
+CATERPILLAR
+",122,Industries,"53,800.000 Million USD",Jim Umpleby,USA,Northern America,https://www.caterpillar.com/
+"
+BECTON DICKINSON AND COMPANY
+",233,Healthcare,"17,290.000 Million USD",Thomas Polen,USA,Northern America,https://www.bd.com/
+"
+ESTEE LAUDER COMPANIES
+",114,Consumer Defensive,"14,863.000 Million USD",Fabrizio Freda,USA,Northern America,https://www.elcompanies.com/
+"
+CHRISTIAN DIOR
+",92,Consumer Cyclical,"63,331.000 Million USD",Pietro Beccari,France,Western Europe,https://www.dior.com
+"
+KERING
+",153,Consumer Cyclical,"18,742.000 Million USD",Francois-Henri Pinault,France,Western Europe,https://www.kering.com/
+"
+BOOKING HOLDINGS
+",155,Consumer Cyclical,"15,060.000 Million USD",Glenn D. Fogel,USA,Northern America,https://www.bookingholdings.com/
+"
+CITIC SECURITIES COMPANY
+",398,Financial Services,"6,351.000 Million USD",NULL,China,Eastern Asia,http://www.citics.com.hk
+"
+SEA LIMITED
+",146,Communication Services,"2,170.000 Million USD",NULL,Singapore,South East Asia,https://www.seagroup.com
+"
+SEABOARD CORPORATION
+","3,511",Industries,"7,126.000 Million USD",NULL,USA,Northern America,https://www.seaboardcorp.com/
+"
+BP P.L.C.
+",161,Energy,"282,400.000 Million USD",Bernard Looney,UK,Northern Europe,https://www.bp.com/
+"
+ANTHEM
+",143,Healthcare,"104,210.000 Million USD",Gail Koziara Boudreaux,USA,Northern America,https://www.antheminc.com/
+"
+STRYKER CORPORATION
+",157,Healthcare,"14,880.000 Million USD",Kevin A. Lobo,USA,Northern America,https://www.stryker.com/
+"
+VERTEX PHARMACEUTICALS
+",323,Healthcare,"4,160.000 Million USD",Reshma Kewalramani,USA,Northern America,https://www.vrtx.com/
+"
+SAUDI BASIC INDUSTRIES CORPORATION (SABIC)
+",165,Basic Materials,"103,380.000 Million USD",Yousef Al-Benyan,Saudi Arabia,Western Asia,https://www.sabic.com
+"
+KDDI CORPORATION
+",257,Communication Services,"46,231.000 Million USD",NULL,Japan,Eastern Asia,http://www.kddi.com
+"
+RECKITT BENCKISER GROUP
+",293,Consumer Defensive,"17,727.000 Million USD",Laxman Narasimhan,UK,Northern Europe,https://www.rb.com/
+"
+THE GOLDMAN SACHS GROUP
+",109,Financial Services,"33,290.000 Million USD",David M. Solomon,USA,Northern America,https://www.goldmansachs.com/
+"
+EQUINIX
+",249,Real Estate,"5,560.000 Million USD",Charles J. Meyers,USA,Northern America,https://www.equinix.com/
+"
+SQUARE INC
+",275,Technology,"4,710.000 Million USD",NULL,USA,Northern America,https://squareup.com/
+"
+INVESTEC BANK
+","4,856",Financial Services,719.090 Million USD,NULL,South Africa,Southern Africa,https://www.investec.com/
+"
+CROWN CASTLE INTERNATIONAL CORPORATION
+",196,Real Estate,"5,760.000 Million USD",Jay A. Brown,USA,Northern America,https://www.crowncastle.com/
+"
+MIDEA GROUP
+",191,Technology,"41,730.000 Million USD",Paul Fang,China,Eastern Asia,http://www.midea.com/global/
+"
+JIANGSU HENGRUI MEDICINE
+",375,Healthcare,"3,492.000 Million USD",NULL,China,Eastern Asia,https://www.hengrui.com/
+"
+COLGATE-PALMOLIVE COMPANY
+",242,Consumer Defensive,"15,690.000 Million USD",Noel R. Wallace,USA,Northern America,https://www.colgatepalmolive.com
+"
+HINDUSTAN UNILEVER
+",221,Consumer Defensive,"5,031.000 Million USD",Sanjiv Mehta,India,Southern Asia,https://www.hul.co.in/
+"
+CHINA PETROLEUM & CHEMICAL CORPORATION (SINOPEC)
+",215,Energy,"325,150.000 Million USD",NULL,China,Eastern Asia,http://www.sinopecgroup.com/
+"
+SBERBANK OF RUSSIA
+",197,Financial Services,"29,972.000 Million USD",Herman Gref,Russia,Eastern Europe,https://www.sberbank.ru/
+"
+ENBRIDGE
+",201,Energy,"39,655.000 Million USD",Al Monaco,Canada,Northern America,https://www.enbridge.com/
+"
+NETEASE
+",263,Communication Services,"8,886.000 Million USD",Ding Lei,China,Eastern Asia,http://ir.netease.com
+"
+DOMINION ENERGY
+",278,Utilities,"16,570.000 Million USD",Thomas F. Farrell II,USA,Northern America,https://www.dominionenergy.com/
+"
+CIGNA CORPORATION
+",217,Healthcare,"153,740.000 Million USD",David Cordani,USA,Northern America,https://www.cigna.com/
+"
+SCHNEIDER ELECTRIC
+",138,Power Equipment,"32,037.000 Million USD",Jean-Pascal Tricoire,France,Western Europe,https://www.schneider-electric.com
+"
+BAYER
+",344,Healthcare,"51,383.000 Million USD",Werner Baumann,Germany,Western Europe,https://www.bayer.com/
+"
+CHINA SHENHUA ENERGY COMPANY
+",277,Energy,"36,280.000 Million USD",Yang Jiping,China,Eastern Asia,http://www.csec.com/
+"
+REGENERON PHARMACEUTICALS
+",279,Healthcare,"7,860.000 Million USD",Leonard Schleifer,USA,Northern America,https://www.regeneron.com/
+"
+ACTIVISION BLIZZARD
+",387,Communication Services,"6,480.000 Million USD",Bobby Kotick,USA,Northern America,https://www.activisionblizzard.com/
+"
+FISERV
+",237,Financial Services,"10,180.000 Million USD",Jeffery W. Yabuki,USA,Northern America,https://www.fiserv.com
+"
+AIRBUS
+",145,Industries,"83,155.000 Million USD",Guillaume Faury,Netherlands,Western Europe,https://www.airbus.com
+"
+AIR PRODUCTS AND CHEMICALS
+",270,Basic Materials,"8,920.000 Million USD",Seifi Ghasemi,USA,Northern America,http://www.airproducts.com/
+"
+CONTEMPORARY AMPEREX TECHNOLOGY
+",64,Industries,"6,868.200 Million USD",Zeng Yuqun,China,Eastern Asia,https://www.atlbattery.com/
+"
+DEERE & COMPANY
+",125,Industries,"38,940.000 Million USD",John C. May,USA,Northern America,https://www.deere.com
+"
+CME GROUP
+",204,Financial Services,"4,860.000 Million USD",Terrence A. Duffy,USA,Northern America,https://www.cmegroup.com/
+"
+HONG KONG EXCHANGES AND CLEARING (HKEX)
+",229,Financial Services,"1,763.500 Million USD",Li Xiaojia,Hong Kong,Eastern Asia,https://www.hkex.com.hk
+"
+THE TJX COMPANIES
+",182,Consumer Cyclical,"41,720.000 Million USD",Ernie Herrman,USA,Northern America,http://www.tjx.com/
+"
+ILLINOIS TOOL WORKS
+",218,Industries,"14,120.000 Million USD",Ernest Scott Santi,USA,Northern America,http://www.itw.com/
+"
+SHERWIN-WILLIAMS COMPANY
+",192,Basic Materials,"17,900.000 Million USD",John G. Morikis,USA,Northern America,https://www.sherwin-williams.com/
+"
+NINTENDO
+",343,Communication Services,"10,920.000 Million USD",Shuntaro Furukawa,Japan,Eastern Asia,https://www.nintendo.com/
+"
+MERCADOLIBRE
+",342,Consumer Cyclical,"3,973.000 Million USD",Stelleo Passos Tolda,Argentina,South America,http://investor.mercadolibre.com/
+"
+ORSTED A/S
+",413,Utilities,"9,584.000 Million USD",Henrik Poulsen,Denmark,Northern Europe,https://orsted.com/en
+"
+DUKE ENERGY CORPORATION
+",206,Utilities,"25,080.000 Million USD",Lynn Good,USA,Northern America,https://www.duke-energy.com
+"
+TAKEDA PHARMACEUTICAL COMPANY
+",468,Healthcare,"29,950.000 Million USD",Christophe Weber,Japan,Eastern Asia,https://www.takeda.com/
+"
+ADIDAS
+",340,Consumer Cyclical,"27,895.000 Million USD",Kasper Rorsted,Germany,Western Europe,https://www.adidas-group.com
+"
+AUTOMATIC DATA PROCESSING (ADP)
+",154,Industries,"14,175.000 Million USD",Carlos A. Rodriguez,USA,Northern America,https://www.adp.com/
+"
+DAIICHI SANKYO COMPANY
+",499,Healthcare,"8,460.300 Million USD",Sunao Manabe,Japan,Eastern Asia,https://www.daiichisankyo.com/
+"
+RECRUIT HOLDINGS
+",175,Industries,"21,021.000 Million USD",Masumi Minegishi,Japan,Eastern Asia,https://recruit-holdings.com/
+"
+CHINA YANGTZE POWER
+",210,Utilities,"7,480.500 Million USD",Lei Mingshan,China,Eastern Asia,NULL
+"
+FAST RETAILING
+",351,Consumer Cyclical,"20,844.000 Million USD",Tadashi Yanai,Japan,Eastern Asia,https://www.fastretailing.com
+"
+VMWARE
+",381,Technology,"10,810.000 Million USD",Patrick P. Gelsinger,USA,Northern America,https://www.vmware.com
+"
+MERCK KGAA O.N.
+",150,Healthcare,"19,057.000 Million USD",Stefan Oschmann,Germany,Western Europe,https://www.merckgroup.com/en
+"
+APPLIED MATERIALS
+",107,Power Equipment,"14,610.000 Million USD",Gary E. Dickerson,USA,Northern America,http://www.appliedmaterials.com/
+"
+MARSH & MCLENNAN COMPANIES
+",200,Financial Services,"16,650.000 Million USD",Daniel S. Glaser,USA,Northern America,https://www.mmc.com/
+"
+VALE
+",238,Basic Materials,"7,514.000 Million USD",Eduardo Bartolomeo,Brazil,South America,http://www.vale.com/EN/Pages/default.aspx
+"
+XIAOMI CORPORATION
+",312,Technology,"30,874.000 Million USD",Lei Jun,China,Eastern Asia,https://www.mi.com
+"
+PSBC (POSTAL SAVINGS BANK OF CHINA)
+",209,Financial Services,"21,837.000 Million USD",Lv Jiajin,China,Eastern Asia,http://www.psbc.com/en/
+"
+CSX CORPORATION
+",198,Industries,"11,940.000 Million USD",James M. Foote,USA,Northern America,https://www.csx.com/
+"
+INTERCONTINENTAL EXCHANGE
+",225,Financial Services,"6,550.000 Million USD",Jeffrey C. Sprecher,USA,Northern America,https://www.intercontinentalexchange.com
+"
+GAZPROM
+",136,Energy,"99,575.000 Million USD",Alexey Miller,Russia,Eastern Europe,http://www.gazprom.com/
+"
+NORTHROP GRUMMAN CORPORATION
+",285,Industries,"33,840.000 Million USD",Kathy Warden,USA,Northern America,http://www.northropgrumman.com
+"
+ESSILOR LUXOTTICA
+",181,Healthcare,"20,520.000 Million USD",Hubert Sagnieres,France,Western Europe,http://www.luxottica.com
+"
+DEUTSCHE POST AG
+",212,Industries,"74,741.000 Million USD",Frank Appel,Germany,Western Europe,https://www.dpdhl.com
+"
+AMERICA MOVIL
+",268,Communication Services,"50,365.000 Million USD",Daniel Hajj Aboumrad,Mexico,Central America,https://www.americamovil.com
+"
+ECOLAB
+",271,Basic Materials,"14,910.000 Million USD","Douglas M. Baker, Jr",USA,Northern America,https://www.ecolab.com/
+"
+HUMANA
+",414,Healthcare,"64,880.000 Million USD",Bruce D. Broussard,USA,Northern America,https://www.humana.com
+"
+SOUTHERN COMPANY
+",232,Utilities,"21,420.000 Million USD",Thomas A. Fanning,USA,Northern America,https://www.southerncompany.com/
+"
+GENERAL ELECTRIC COMPANY
+",130,Industries,"95,210.000 Million USD",H. Lawrence Culp Jr,USA,Northern America,https://www.ge.com/
+"
+FEDEX CORPORATION
+",248,Industries,"69,220.000 Million USD",Frederick W. Smith,USA,Northern America,https://www.fedex.com
+"
+CHUBB
+",189,Financial Services,"34,180.000 Million USD",Evan G. Greenberg,Switzerland,Western Europe,https://www.chubb.com/
+"
+BOSTON SCIENTIFIC CORPORATION
+",301,Healthcare,"10,730.000 Million USD",Michael F. Mahoney,USA,Northern America,http://www.bostonscientific.com
+"
+ZURICH INSURANCE GROUP AG
+",259,Financial Services,"72,080.000 Million USD",Mario Greco,Switzerland,Western Europe,https://www.zurich.com/
+"
+ABB
+",222,Industries,"33,005.000 Million USD",Bjorn Rosengren,Switzerland,Western Europe,https://new.abb.com/
+"
+CHINA INTERNATIONAL TRAVEL SERVICE CORPORATION
+",282,Consumer Cyclical,"7,194.900 Million USD",NULL,China,Eastern Asia,http://www.cits.net/
+"
+AUTODESK
+",315,Technology,"3,270.000 Million USD",Andrew Anagnost,USA,Northern America,https://www.autodesk.com/
+"
+DAIKIN INDUSTRIES
+",274,Industries,"22,577.000 Million USD",Masanori Togawa,Japan,Eastern Asia,https://www.daikin.com/
+"
+SHENZHEN MINDRAY BIO-MEDICAL ELECTRONICS
+",289,Healthcare,"2,483.200 Million USD",NULL,China,Eastern Asia,https://www.mindray.com
+"
+UBER TECHNOLOGIES
+",205,Technology,"14,150.000 Million USD",Dara Khosrowshahi,USA,Northern America,http://www.uber.com/
+"
+PROGRESSIVE CORPORATION
+",281,Financial Services,"38,990.000 Million USD",Tricia Griffith,USA,Northern America,https://www.progressive.com/
+"
+BASF SE
+",254,Basic Materials,"69,986.000 Million USD",NULL,Germany,Western Europe,https://www.basf.com
+"
+PETROLEO BRASILEIRO - PETROBRAS
+",256,Energy,"60,450.000 Million USD",Roberto Castello Branco,Brazil,South America,http://www.petrobras.com.br/en/
+"
+KIMBERLY-CLARK CORPORATION
+",401,Consumer Defensive,"18,450.000 Million USD",Michael D. Hsu,USA,Northern America,https://www.kimberly-clark.com
+"
+MOODY'S CORPORATION
+",251,Financial Services,"4,830.000 Million USD",Raymond W. McDaniel Jr,USA,Northern America,https://www.moodys.com
+"
+NORFOLK SOUTHERN CORPORATION
+",234,Industries,"11,290.000 Million USD",James A. Squires,USA,Northern America,http://www.nscorp.com
+"
+VINCI
+",299,Industries,"57,761.000 Million USD",Xavier Huillard,France,Western Europe,https://www.vinci.com
+"
+PT BANK CENTRAL ASIA TBK
+",269,Financial Services,"5,034.800 Million USD",Jahja Setiaatmadja,Indonesia,South East Asia,https://www.bca.co.id/en
+"
+U.S. BANCORP
+",173,Financial Services,"22,880.000 Million USD",Andrew Cecere,USA,Northern America,https://www.usbank.com
+"
+INFOSYS
+",149,Technology,"11,803.000 Million USD",Salil Parekh,India,Southern Asia,https://www.infosys.com/
+"
+BARRICK GOLD CORPORATION
+",649,Basic Materials,"10,185.000 Million USD",Mark Bristow,Canada,Northern America,https://barrick.com/
+"
+NEWMONT CORPORATION
+",409,Basic Materials,"9,740.000 Million USD",Tom Palmer,USA,Northern America,https://www.newmont.com
+"
+LUXSHARE PRECISION INDUSTRY
+",365,Technology,"9,377.400 Million USD",NULL,China,Eastern Asia,http://en.luxshare-ict.com/
+"
+EQUINOR ASA
+",177,Energy,"74,234.000 Million USD",Eldar Saetre,Norway,Northern Europe,https://www.equinor.com/
+"
+BNP PARIBAS
+",172,Financial Services,"64,900.000 Million USD",Jean-Laurent Bonnafe,France,Western Europe,https://group.bnpparibas/
+"
+DAIMLER AG
+",179,Consumer Cyclical,"203,830.000 Million USD",Ola Kallenius,Germany,Western Europe,https://www.daimler.com/en/
+"
+BANK OF NOVA SCOTIA
+",184,Financial Services,"24,626.000 Million USD",Brian J. Porter,Canada,Northern America,https://www.scotiabank.com/
+"
+ILLUMINA
+",314,Healthcare,"3,540.000 Million USD",Francis deSouza,USA,Northern America,https://www.illumina.com/
+"
+LAM RESEARCH CORPORATION
+",166,Technology,"10,040.000 Million USD",Timothy M. Archer,USA,Northern America,https://www.lamresearch.com/
+"
+SAUDI TELECOM COMPANY (STC)
+",302,Communication Services,"40,226.000 Million USD",Nasser bin Suleiman Al-Nasser,Saudi Arabia,Western Asia,https://www.stc.com.sa/
+"
+CNOOC LIMITED
+",393,Energy,"35,640.000 Million USD",Yang Hua,China,Eastern Asia,http://www.cnoocltd.com/
+"
+BROOKFIELD ASSET MANAGEMENT
+",176,Financial Services,"72,626.000 Million USD",Bruce Flatt,Canada,Northern America,https://www.brookfield.com/
+"
+MITSUBISHI UFJ FINANCIAL GROUP
+",211,Financial Services,"45,672.000 Million USD",Hironori Kamezawa,Japan,Eastern Asia,https://www.mufg.jp
+"
+SPOTIFY TECHNOLOGY
+",471,Communication Services,"7,981.500 Million USD",NULL,Sweden,Northern Europe,https://www.spotify.com
+"
+GLOBAL PAYMENTS
+",457,Industries,"4,910.000 Million USD",Jeffrey S. Sloan,USA,Northern America,https://www.globalpaymentsinc.com
+"
+ATLAS COPCO AB
+",214,Industries,"12,450.000 Million USD",Mats Rahmstrom,Sweden,Northern Europe,https://www.atlascopco.com/
+"
+DOLLAR GENERAL CORPORATION
+",336,Consumer Defensive,"27,750.000 Million USD",Todd J Vasos,USA,Northern America,https://www.dollargeneral.com/
+"
+TRUIST FINANCIAL CORPORATION
+",187,Financial Services,"12,440.000 Million USD",Kelly S. King,USA,Northern America,https://www.bbt.com/
+"
+SHIN-ETSU CHEMICAL
+",240,Basic Materials,"14,505.000 Million USD",Yasuhiko Saito,Japan,Eastern Asia,https://www.shinetsu.co.jp
+"
+NIDEC CORPORATION
+",273,Industries,"13,814.000 Million USD",Shigenobu Nagamori,Japan,Eastern Asia,https://www.nidec.com
+"
+HANGZHOU HIKVISION DIGITAL TECHNOLOGY
+",230,Technology,"8,649.000 Million USD",Hongjia Gong,China,Eastern Asia,https://www.hikvision.com/en/
+"
+BANK OF COMMUNICATIONS
+",374,Financial Services,"34,755.000 Million USD",Deqi Ren,China,Eastern Asia,http://www.bankcomm.com
+"
+SAFRAN
+",345,Industries,"29,606.000 Million USD",Philippe Petitcolin,France,Western Europe,https://www.safran-group.com/
+"
+EDWARDS LIFESCIENCES CORPORATION
+",220,Healthcare,"4,350.000 Million USD",Michael A Mussallem,USA,Northern America,https://www.edwards.com/
+"
+ADYEN
+",224,Technology,"3,135.300 Million USD",NULL,Netherlands,Western Europe,https://www.adyen.com/
+"
+AXA
+",226,Financial Services,"147,430.000 Million USD",Thomas Buberl,France,Western Europe,https://www.axa.com/
+"
+LULULEMON ATHLETICA
+",427,Consumer Cyclical,"3,970.000 Million USD",NULL,Canada,Northern America,https://www.lululemon.com.hk
+"
+FERRARI
+",286,Consumer Cyclical,"4,443.900 Million USD",Louis C. Camilleri,Italy,South Europe,http://corporate.ferrari.com
+"
+ROSNEFT OIL COMPANY
+",223,Energy,"101,180.000 Million USD",Igor Sechin,Russia,Eastern Europe,https://www.rosneft.com/
+"
+MICRON TECHNOLOGY
+",142,Technology,"23,400.000 Million USD",Sanjay Mehrotra,USA,Northern America,https://www.micron.com/
+"
+LG CHEM
+",448,Basic Materials,"26,467.000 Million USD",NULL,South Korea,Eastern Asia,http://www.lgchem.com
+"
+MUYUAN FOODS
+",420,Consumer Defensive,"3,033.200 Million USD",NULL,China,Eastern Asia,http://www.muyuanfoods.com/
+"
+WASTE MANAGEMENT
+",260,Industries,"15,450.000 Million USD",James C. Fish Jr,USA,Northern America,https://www.wm.com
+"
+TC ENERGY CORPORATION
+",405,Energy,"10,494.000 Million USD",Russell K. Girling,Canada,Northern America,https://www.tcenergy.com/
+"
+DASSAULT SYSTEMES
+",241,Technology,"4,741.200 Million USD",Bernard Charles,France,Western Europe,https://www.3ds.com/
+"
+BUDWEISER BREWING COMPANY APAC
+",568,Consumer Defensive,"1,620.000 Million USD",Jan Craps,Hong Kong,Eastern Asia,http://www.budweiserapac.com/
+"
+INDUSTRIAL BANK
+",267,Financial Services,"27,165.000 Million USD","Doyle Mitchell, Jr.",China,Eastern Asia,https://www.cib.com.cn
+"
+SIEMENS HEALTHINEERS AG
+",203,Healthcare,"17,134.000 Million USD",NULL,Germany,Western Europe,https://www.corporate.siemens-healthineers.com/
+"
+QATAR NATIONAL BANK
+",371,Financial Services,"6,782.400 Million USD",Abdulla Mubarak Al-Khalifa,Qatar,Western Asia,https://www.qnb.com
+"
+INVESTOR AB (PUBL)
+",216,Financial Services,"16,992.000 Million USD",Johan Forssell,Sweden,Northern Europe,https://www.investorab.com/
+"
+JARDINE MATHESON HOLDINGS
+",446,Industries,"40,920.000 Million USD",Benjamin William Keswick,Bermuda,Northern America,https://www.jardines.com
+"
+S.F. HOLDING
+",358,Industries,"16,829.000 Million USD",NULL,China,Eastern Asia,http://www.sf-express.com/cn/en/
+"
+GREE ELECTRIC APPLIANCES
+",552,Technology,"29,722.000 Million USD",Dong Mingzhu,China,Eastern Asia,http://global.gree.com/
+"
+PHILIPS
+",624,Healthcare,"22,988.000 Million USD",Frans van Houten,Netherlands,Western Europe,https://www.philips.com/global
+"
+WAL-MART DE MEXICO
+",287,Consumer Defensive,"32,340.000 Million USD",Guilherme Loureiro,Mexico,Central America,https://www.walmex.mx/en/
+"
+CHINA VANKE
+",515,Real Estate,"55,184.000 Million USD",Yu Liang,China,Eastern Asia,https://www.vanke.com/
+"
+LONZA GROUP
+",316,Healthcare,"6,452.800 Million USD",NULL,Switzerland,Western Europe,https://www.lonza.com/
+"
+WORKDAY
+",288,Technology,"3,630.000 Million USD",Aneel Bhusri,USA,Northern America,https://www.workday.com
+"
+ROPER TECHNOLOGIES
+",399,Industries,"5,360.000 Million USD",Neil Hunn,USA,Northern America,http://www.ropertech.com/
+"
+THE PNC FINANCIAL SERVICES GROUP
+",164,Financial Services,"17,820.000 Million USD",William S. Demchak,USA,Northern America,https://www.pnc.com
+"
+AON
+",292,Financial Services,"11,010.000 Million USD",Gregory C. Case,USA,Northern America,https://www.aon.com
+"
+HCA HEALTHCARE
+",213,Healthcare,"51,330.000 Million USD",Samuel N. Hazen,USA,Northern America,https://hcahealthcare.com/
+"
+DELL TECHNOLOGIES
+",447,Technology,"92,150.000 Million USD",Michael S. Dell,USA,Northern America,https://www.delltechnologies.com/
+"
+PJSC LUKOIL
+",305,Energy,"72,120.000 Million USD",Vagit Alekperov,Russia,Eastern Europe,http://www.lukoil.com/
+"
+WESTPAC BANKING CORPORATION
+",320,Financial Services,"14,719.000 Million USD",Peter King,Australia,"Australia, New Zealand",https://www.westpac.com.au/
+"
+TAL EDUCATION GROUP
+","5,884",Consumer Defensive,"3,270.000 Million USD",Bangxin Zhang,China,Eastern Asia,http://en.100tal.com/
+"
+SAMSUNG BIOLOGICS
+",417,Healthcare,"1,024.900 Million USD",NULL,South Korea,Eastern Asia,https://www.samsungbiologics.com
+"
+THE CHARLES SCHWAB CORPORATION
+",72,Financial Services,"10,720.000 Million USD",Paul V. Woolway,USA,Northern America,https://www.schwab.com/
+"
+PERNOD RICARD
+",300,Consumer Defensive,"9,971.000 Million USD",Alexandre Ricard,France,Western Europe,https://www.pernod-ricard.com
+"
+BIOGEN
+",609,Healthcare,"14,370.000 Million USD",Michel Vounatsos,USA,Northern America,https://www.biogen.com
+"
+RELX
+",311,Communication Services,"10,866.000 Million USD",Erik Engstrom,UK,Northern Europe,https://www.relx.com/
+"
+NOVATEK
+",250,Energy,"11,216.000 Million USD",Leonid Viktorovich Mikhelson,Russia,Eastern Europe,http://www.novatek.ru
+"
+MONSTER BEVERAGE CORPORATION
+",388,Consumer Defensive,"4,200.000 Million USD",Rodney Sacks,USA,Northern America,https://www.monsterbevcorp.com/
+"
+NATIONAL AUSTRALIA BANK
+",253,Financial Services,"12,152.000 Million USD",Ross McEwan,Australia,"Australia, New Zealand",https://www.nab.com.au/
+"
+KONE OYJ
+",560,Industries,"11,778.000 Million USD",Henrik Ehrnrooth,Finland,Northern Europe,https://www.kone.com/en/
+"
+BAYERISCHE MOTOREN WERKE (BMW)
+",244,Consumer Cyclical,"122,970.000 Million USD",NULL,Germany,Western Europe,https://www.bmwgroup.com/
+"
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+",163,Financial Services,"5,254.200 Million USD",Waleed A. Al-Mogbel,Saudi Arabia,Western Asia,https://www.alrajhibank.com.sa/
+"
+SHANGHAI PUDONG DEVELOPMENT BANK
+",509,Financial Services,"28,356.000 Million USD",Ji Xiaohui,China,Eastern Asia,http://www.spdb.com.cn
+"
+HONDA MOTOR
+",377,Consumer Cyclical,"135,870.000 Million USD",Takahiro Hachigo,Japan,Eastern Asia,https://global.honda/
+"
+GENERAL DYNAMICS CORPORATION
+",307,Industries,"39,350.000 Million USD",Phebe Novakovic,USA,Northern America,https://www.gd.com/
+"
+ORIENTAL LAND
+",382,Consumer Cyclical,"4,783.000 Million USD",Toshio Kagami,Japan,Eastern Asia,http://www.olc.co.jp
+"
+UBS GROUP AG
+",265,Financial Services,"28,940.000 Million USD",Sergio Ermotti,Switzerland,Western Europe,https://www.ubs.com
+"
+DANONE
+",498,Consumer Defensive,"29,830.000 Million USD",Emmanuel Faber,Switzerland,Western Europe,https://www.danone.com/
+"
+ANALOG DEVICES
+",183,Technology,"5,990.000 Million USD",Vincent Roche,USA,Northern America,https://www.analog.com
+"
+SK HYNIX
+",231,Technology,"23,751.000 Million USD",Lee Seok-Hee,South Korea,Eastern Asia,https://www.skhynix.com/
+"
+ANHUI CONCH CEMENT COMPANY
+",606,Basic Materials,"23,554.000 Million USD",Bin Wu,China,Eastern Asia,http://english.conch.cn/
+"
+PICC GROUP (PEOPLE'S INSURANCE COMPANY (GROUP) OF CHINA)
+",715,Financial Services,"79,436.000 Million USD",Jianjun Zhang,China,Eastern Asia,http://www.picc.com/
+"
+KRAFT HEINZ COMPANY
+",431,Consumer Defensive,"24,970.000 Million USD",Miguel Patricio,USA,Northern America,http://www.kraftheinzcompany.com/
+"
+BAIDU
+",354,Communication Services,"16,110.000 Million USD",Robin Li,China,Eastern Asia,https://www.baidu.com/
+"
+BAXTER INTERNATIONAL
+",453,Healthcare,"11,360.000 Million USD",Jose E. Almeida,USA,Northern America,https://www.baxter.com/
+"
+HDFC
+",291,Financial Services,"13,224.000 Million USD",Keki M Mistry,India,Southern Asia,https://www.hdfc.com/
+"
+DIGITAL REALTY TRUST
+",432,Real Estate,"3,210.000 Million USD",NULL,USA,Northern America,https://www.digitalrealty.com/
+"
+TOKYO ELECTRON LIMITED
+",185,Technology,"10,256.000 Million USD",Toshiki Kawai,Japan,Eastern Asia,https://www.tel.com/
+"
+ATLASSIAN CORPORATION
+",219,Technology,895.400 Million USD,NULL,Australia,"Australia, New Zealand",https://www.atlassian.com/
+"
+M3 Inc
+",703,Healthcare,"1,191.200 Million USD",NULL,Japan,Eastern Asia,https://corporate.m3.com/
+"
+FOXCONN INDUSTRIAL INTERNET
+",559,Technology,"61,290.000 Million USD",NULL,China,Eastern Asia,http://www.foxconn.com/
+"
+PRUDENTIAL
+",391,Financial Services,"129,900.000 Million USD",Charles F. Lowrey,UK,Northern Europe,https://www.prudential.com/
+"
+INTESA SANPAOLO
+",349,Financial Services,"37,418.000 Million USD",Carlo Messina,Italy,South Europe,https://www.intesasanpaolo.com/
+"
+MMC NORILSK NICKEL
+",411,Basic Materials,"13,560.000 Million USD",Vladimir Potanin,Russia,Eastern Europe,https://www.nornickel.com/
+"
+CONOCOPHILLIPS COMPANY
+",140,Energy,"32,560.000 Million USD",Ryan Lance,USA,Northern America,http://www.conocophillips.com/
+"
+ITAU UNIBANCO HOLDING
+",524,Financial Services,"22,629.000 Million USD",Candido Botelho Bracher,Brazil,South America,https://www.itau.com.br
+"
+GENERAL MOTORS COMPANY
+",174,Consumer Cyclical,"137,230.000 Million USD",Mary Barra,USA,Northern America,https://www.gm.com/
+"
+DEXCOM
+",433,Healthcare,"1,476.000 Million USD",NULL,USA,Northern America,https://www.dexcom.com/
+"
+HENKEL AG
+",577,Consumer Defensive,"23,735.000 Million USD",Carsten Knobel,Germany,Western Europe,https://www.henkel.com
+"
+ELECTRONIC ARTS
+",550,Communication Services,"5,530.000 Million USD",Andrew Wilson,USA,Northern America,https://www.ea.com/
+"
+LONDON STOCK EXCHANGE GROUP
+",352,Financial Services,"3,189.200 Million USD",David Schwimmer,UK,Northern Europe,https://www.lseg.com/
+"
+EBAY
+",484,Consumer Cyclical,"10,800.000 Million USD",NULL,USA,Northern America,https://www.ebay.com/
+"
+KEURIG DR PEPPER
+",357,Consumer Defensive,"11,120.000 Million USD",Robert Gamgort,USA,Northern America,https://www.keurigdrpepper.com/
+"
+EMERSON ELECTRIC COMPANY
+",321,Industries,"18,330.000 Million USD",David Farr,USA,Northern America,https://www.emerson.com
+"
+DUPONT DE NEMOURS
+",467,Basic Materials,"21,510.000 Million USD",Edward D. Breen,USA,Northern America,https://www.dow.com/en-us
+"
+CANADIAN PACIFIC RAILWAY
+",245,Industries,"6,171.300 Million USD",Keith Creel,Canada,Northern America,https://www.cpr.ca/en/
+"
+NATIONAL GRID TRANSCO
+",361,Utilities,"20,065.000 Million USD",John Pettigrew,UK,Northern Europe,https://www.nationalgrid.com
+"
+EATON CORPORATION
+",262,Industries,"21,390.000 Million USD",Craig Arnold,Ireland,Northern Europe,https://www.eaton.com
+"
+VEEVA SYSTEMS
+",583,Healthcare,"1,100.000 Million USD",NULL,USA,Northern America,https://www.veeva.com/
+"
+CHINA PACIFIC INSURANCE GROUP (CPIC)
+",529,Financial Services,"57,728.000 Million USD",Kong Qingwei,China,Eastern Asia,http://www.cpic.com.cn
+"
+FORTESCUE METALS GROUP
+",440,Basic Materials,"14,210.000 Million USD",NULL,Australia,"Australia, New Zealand",http://www.fmgl.com.au/home
+"
+VODAFONE GROUP
+",470,Communication Services,"53,069.000 Million USD",Nick Read,UK,Northern Europe,https://www.vodafone.com
+"
+WESFARMERS
+",406,Consumer Cyclical,"22,755.000 Million USD",Rob Scott,Australia,"Australia, New Zealand",https://www.wesfarmers.com.au/
+"
+ENTERPRISE PRODUCTS PARTNERS
+",373,Energy,"32,780.000 Million USD",A. James Teague,USA,Northern America,https://www.enterpriseproducts.com/
+"
+BCE (Bell Canada Enterprises)
+",408,Communication Services,"18,976.000 Million USD",Mirko Bibic,Canada,Northern America,http://www.bce.ca/
+"
+PING AN BANK
+",360,Financial Services,"20,697.000 Million USD",XIE Yonglin,China,Eastern Asia,https://bank.pingan.com/en/
+"
+AMERICAN ELECTRIC POWER COMPANY
+",439,Utilities,"15,560.000 Million USD",Nick Akins,USA,Northern America,https://www.aep.com/
+"
+GENERAL MILLS
+",486,Consumer Defensive,"17,630.000 Million USD",Jeff Harmening,USA,Northern America,https://www.generalmills.com/
+"
+MURATA MANUFACTURING
+",378,Technology,"13,959.000 Million USD",Tsuneo Murata,Japan,Eastern Asia,https://www.murata.com/
+"
+MUNCHENER RUCKVERSICHERUNGS-GESELLSCHAFT
+",463,Financial Services,"66,663.000 Million USD",Joachim Wenning,Germany,Western Europe,https://www.munichre.com/
+"
+NESTE OYJ
+",519,Energy,"18,690.000 Million USD",NULL,Finland,Northern Europe,https://www.neste.com/
+"
+ALIMENTATION COUCHE-TARD
+",476,Consumer Defensive,"59,120.000 Million USD",Brian P. Hannasch,Canada,Northern America,https://corpo.couche-tard.com/
+"
+L3HARRIS TECHNOLOGIES
+",466,Industries,"12,860.000 Million USD",William M. Bill Brown,USA,Northern America,https://www.harris.com/
+"
+DOCUSIGN
+",778,Technology,"1,453.000 Million USD",NULL,USA,Northern America,https://www.docusign.com
+"
+ERICSSON
+",547,Technology,"27,266.000 Million USD",Borje Ekholm,Sweden,Northern Europe,https://www.ericsson.com/
+"
+GIVAUDAN SA
+",423,Basic Materials,"4,590.200 Million USD",NULL,Switzerland,Western Europe,https://www.givaudan.com/
+"
+DBS GROUP HOLDINGS
+",276,Financial Services,"10,760.000 Million USD",Piyush Gupta,Singapore,South East Asia,https://www.dbs.com
+"
+SUMITOMO MITSUI FINANCIAL GROUP
+",392,Financial Services,"33,461.000 Million USD",Makoto Takashima,Japan,Eastern Asia,https://www.smfg.co.jp
+"
+THOMSON REUTERS CORPORATION
+",339,Industries,"5,910.000 Million USD",Steve Hasker,Canada,Northern America,https://www.thomsonreuters.com
+"
+NAVER CORPORATION
+",477,Communication Services,"4,667.600 Million USD",NULL,South Korea,Eastern Asia,https://www.naver.com/
+"
+JARDINE STRATEGIC HOLDINGS
+",460,Industries,"38,545.000 Million USD",David Hsu,Hong Kong,Eastern Asia,https://www.jardines.com/
+"
+VONOVIA SE
+",479,Real Estate,"3,728.800 Million USD",NULL,Germany,Western Europe,https://investoren.vonovia.de
+"
+SUN HUNG KAI PROPERTIES
+",595,Real Estate,"10,745.000 Million USD",Raymond Kwok,Hong Kong,Eastern Asia,https://www.shkp.com
+"
+ANZ BANKING GROUP
+",317,Financial Services,"12,980.000 Million USD",Shayne Elliott,Australia,"Australia, New Zealand",https://www.anz.com.au/personal/
+"
+AB VOLVO
+",298,Industries,"40,614.000 Million USD",Martin Lundstedt,Sweden,Northern Europe,https://www.volvogroup.com/
+"
+SMC CORPORATION
+",462,Industries,"4,786.600 Million USD",Katsunori Maruyama,Japan,Eastern Asia,https://www.smcworld.com/
+"
+LAS VEGAS SANDS CORP
+",722,Consumer Cyclical,"13,740.000 Million USD",Sheldon Adelson,USA,Northern America,https://www.sands.com/
+"
+KAO CORPORATION
+",858,Consumer Defensive,"13,670.000 Million USD",Michitaka Sawada,Japan,Eastern Asia,https://www.kao.com
+"
+ITOCHU CORPORATION
+",429,Industries,"99,936.000 Million USD",Masahiro Okafuji,Japan,Eastern Asia,https://www.itochu.co.jp
+"
+HON HAI PRECISION INDUSTRY
+",353,Technology,"192,310.000 Million USD",Yang-wei Liu,Taiwan,South East Asia,http://www.foxconn.com/
+"
+BHARTI AIRTEL
+",366,Communication Services,"11,380.000 Million USD",Gopal Vittal,India,Southern Asia,https://www.airtel.in/
+"
+BLACKSTONE GROUP
+",199,Financial Services,"7,420.000 Million USD",Stephen A. Schwarzman,USA,Northern America,https://www.blackstone.com/
+"
+WUXI APPTEC
+",386,Healthcare,"1,930.800 Million USD",NULL,China,Eastern Asia,https://www.apptec360.com/
+"
+XCEL ENERGY
+",551,Utilities,"11,530.000 Million USD",Ben Fowke,USA,Northern America,https://www.xcelenergy.com/
+"
+BANK OF MONTREAL
+",227,Financial Services,"20,061.000 Million USD",Darryl White,Canada,Northern America,https://www.bmo.com
+"
+AMBEV
+",500,Consumer Defensive,"10,518.000 Million USD",Jean Jereissati,Brazil,South America,https://www.ambev.com.br/
+"
+SEMPRA ENERGY
+",449,Utilities,"10,830.000 Million USD",Jeffrey W. Martin,USA,Northern America,https://www.sempra.com/
+"
+CENTENE CORPORATION
+",445,Healthcare,"74,630.000 Million USD",NULL,USA,Northern America,https://www.centene.com/
+"
+PUBLIC STORAGE
+",290,Real Estate,"2,840.000 Million USD",Joseph D. Russell Jr,USA,Northern America,https://www.publicstorage.com/
+"
+HUATAI SECURITIES
+",919,Financial Services,"3,320.400 Million USD",NULL,China,Eastern Asia,http://www.htsc.com.cn/
+"
+COMPAGNIE FINANCIERE RICHEMONT SA
+",194,Consumer Cyclical,"16,801.000 Million USD",Jerome Lambert,Switzerland,Western Europe,https://www.richemont.com/
+"
+WOOLWORTHS GROUP
+",642,Consumer Defensive,"44,385.000 Million USD",Bradford Banducci,Australia,"Australia, New Zealand",https://www.woolworthsgroup.com.au/
+"
+TWILIO
+",493,Communication Services,"1,762.000 Million USD",NULL,USA,Northern America,https://www.twilio.com/
+"
+SANDS CHINA
+","1,147",Consumer Cyclical,"8,810.000 Million USD",Sheldon Adelson,Macao,Eastern Asia,https://www.sandschina.com/
+"
+BANCO SANTANDER
+",296,Financial Services,"53,289.000 Million USD",Jose Antonio Alvarez,Spain,South Europe,https://www.santander.com/
+"
+COGNIZANT TECHNOLOGY SOLUTIONS
+",428,Technology,"16,780.000 Million USD",Brian Humphries,USA,Northern America,https://www.cognizant.com/
+"
+EXELON CORPORATION
+",334,Utilities,"34,430.000 Million USD",Christopher M. Crane,USA,Northern America,http://www.exeloncorp.com/
+"
+SOUTHERN COPPER CORPORATION
+",389,Basic Materials,"7,280.000 Million USD",Oscar Gonzalez Rocha,Mexico,Central America,http://www.southerncoppercorp.com
+"
+HOYA CORPORATION
+",370,Healthcare,"5,299.800 Million USD",Hiroshi Suzuki,Japan,Eastern Asia,http://www.hoya.com/
+"
+COLOPLAST A/S
+",601,Healthcare,"2,870.200 Million USD",NULL,Denmark,Northern Europe,https://www.coloplast.com
+"
+GALAXY ENTERTAINMENT GROUP
+",928,Consumer Cyclical,"1,673.900 Million USD",Francis Lui,Hong Kong,Eastern Asia,https://www.galaxyentertainment.com/en
+"
+BODEGAS ESMERALDA
+",NULL,Consumer Defensive,159.000 Million USD,NULL,Argentina,South America,http://www.bodegasesmeralda.com.ar/
+"
+CHIPOTLE MEXICAN GRILL
+",441,Consumer Cyclical,"5,580.000 Million USD",NULL,USA,Northern America,https://www.chipotle.com/
+"
+CONSTELLATION BRANDS
+",422,Consumer Defensive,"8,340.000 Million USD",Bill Newlands,USA,Northern America,https://www.cbrands.com/
+"
+CARVANA
+",636,Consumer Cyclical,"5,586.000 Million USD",NULL,USA,Northern America,https://www.carvana.com/
+"
+KOTAK MAHINDRA BANK
+",383,Financial Services,"6,538.900 Million USD",Uday Kotak,India,Southern Asia,https://www.kotak.com/en.html
+"
+QNB FINANSBANK
+","1,942",Financial Services,"1,248.500 Million USD",NULL,Turkey,Western Asia,https://www.qnbfinansbank.com/
+"
+WALGREENS BOOTS ALLIANCE
+",418,Healthcare,"136,860.000 Million USD",Stefano Pessina,USA,Northern America,http://www.walgreensbootsalliance.com/
+"
+SBA COMMUNICATIONS CORPORATION
+",542,Real Estate,"2,010.000 Million USD",NULL,USA,Northern America,https://www.sbasite.com/
+"
+DSV PANALPINA
+",359,Industries,"15,070.000 Million USD",NULL,Denmark,Northern Europe,http://www.dsv.com/
+"
+O'REILLY AUTOMOTIVE
+",425,Consumer Cyclical,"10,150.000 Million USD",Gregory D. Johnson,USA,Northern America,https://www.oreillyauto.com/
+"
+FIRST ABU DHABI BANK
+",337,Banking Services,"5,365.900 Million USD",Hana Al Rostamani,UAE,Western Asia,https://www.bankfab.com/
+"
+INFINEON TECHNOLOGIES AG
+",304,Technology,"9,474.200 Million USD",NULL,Germany,Western Europe,https://www.infineon.com/
+"
+CHINA MINSHENG BANKING
+",825,Financial Services,"27,060.000 Million USD",Zheng Wanchun,China,Eastern Asia,http://www.cmbc.com.cn/
+"
+NXP SEMICONDUCTORS
+",309,Technology,"8,870.000 Million USD",Kurt Sievers,Netherlands,Western Europe,https://www.nxp.com/
+"
+METLIFE
+",322,Financial Services,"69,620.000 Million USD",Michel A. Khalaf,USA,Northern America,https://www.metlife.com/
+"
+JAPAN TOBACCO
+",579,Consumer Defensive,"19,798.000 Million USD",Eddy Pirard,Japan,Eastern Asia,https://www.jt.com/
+"
+CELLTRION
+",985,Healthcare,"1,627.200 Million USD",NULL,South Korea,Eastern Asia,https://www.celltrion.com/
+"
+FANUC CORPORATION
+",489,Industries,"4,624.600 Million USD",Yoshiharu Inaba,Japan,Eastern Asia,https://www.fanuc.com/
+"
+CHINA EVERGRANDE NEW ENERGY VEHICLE GROUP
+","3,056",Healthcare,845.250 Million USD,NULL,China,Eastern Asia,https://health.evergrande.com/
+"
+MIZUHO FINANCIAL GROUP
+",610,Financial Services,"17,809.000 Million USD",Yasuhiro Sato,Japan,Eastern Asia,https://www.mizuho-fg.com
+"
+MACQUARIE GROUP
+",313,Financial Services,"4,314.200 Million USD",Shemara Wikramanayake,Australia,"Australia, New Zealand",https://www.macquarie.com/
+"
+BROWN-FORMAN CORPORATION
+",659,Consumer Defensive,"3,310.000 Million USD",Lawson Whiting,USA,Northern America,https://www.brown-forman.com/
+"
+DEUTSCHE BORSE
+",694,Financial Services,"3,894.000 Million USD",NULL,Germany,Western Europe,https://deutsche-boerse.com/
+"
+PTT PUBLIC COMPANY
+",633,Energy,"68,789.000 Million USD",Chansin Treenuchagron,Thailand,South East Asia,http://www.pttplc.com
+"
+ICICI BANK
+",228,Financial Services,"5,215.700 Million USD",Sandeep Bakhshi,India,Southern Asia,https://www.icicibank.com/
+"
+ENI S.P.A.
+",364,Energy,"82,458.000 Million USD",Claudio Descalzi,Italy,South Europe,https://www.eni.com
+"
+EXPERIAN
+",472,Industries,"5,179.000 Million USD",NULL,Ireland,Northern Europe,https://www.experianplc.com/
+"
+CHINA TOWER CORPORATION
+","1,002",Communication Services,"11,460.000 Million USD",Tong Jilu,China,Eastern Asia,https://www.china-tower.com
+"
+ANGLO AMERICAN
+",303,Basic Materials,"29,870.000 Million USD",Mark Cutifani,UK,Northern Europe,https://www.angloamerican.com/
+"
+CINTAS CORPORATION
+",488,Industries,"7,085.000 Million USD",NULL,USA,Northern America,https://www.cintas.com/
+"
+CHINA OVERSEAS LAND AND INVESTMENT
+",678,Real Estate,24.450 Million USD,Zhang Zhichao,Hong Kong,Eastern Asia,https://www.cohl.com
+"
+ALIBABA HEALTH INFORMATION TECHNOLOGY
+","1,762",Healthcare,"1,439.400 Million USD",NULL,Hong Kong,Eastern Asia,https://www.alihealth.cn/
+"
+CANADIAN IMPERIAL BANK OF COMMERCE
+",328,Financial Services,"14,668.000 Million USD",Victor G. Dodig,Canada,Northern America,https://www.cibc.com
+"
+COSTAR GROUP
+",733,Real Estate,"1,390.000 Million USD",NULL,USA,Northern America,https://www.costargroup.com/
+"
+CHINA CITIC BANK CORPORATION
+",660,Financial Services,"28,122.000 Million USD",Mingqiang BI,China,Eastern Asia,http://www.citicbank.com/en/
+"
+AHOLD DELHAIZE
+",593,Consumer Defensive,"78,186.000 Million USD",NULL,Netherlands,Western Europe,https://www.aholddelhaize.com
+"
+IDEXX LABORATORIES
+",415,Healthcare,"2,410.000 Million USD",NULL,USA,Northern America,https://www.idexx.com/en/
+"
+CHINA EVERGRANDE GROUP
+","4,926",Real Estate,"71,634.000 Million USD",Xia Haijun,China,Eastern Asia,http://www.evergrande.com
+"
+HITACHI
+",326,Industries,"86,268.000 Million USD",Toshiaki Higashihara,Japan,Eastern Asia,https://www.hitachi.com/
+"
+WAYFAIR
+","1,096",Consumer Cyclical,"14,145.000 Million USD",NULL,USA,Northern America,https://www.wayfair.com/
+"
+MEDIATEK
+",283,Technology,"8,864.000 Million USD",NULL,Taiwan,South East Asia,https://www.mediatek.com/
+"
+MITSUBISHI CORPORATION
+",404,Industries,"146,540.000 Million USD",Takehiko Kakiuchi,Japan,Eastern Asia,https://www.mitsubishicorp.com/
+"
+IHS MARKIT
+",385,Industries,"6,091.300 Million USD",NULL,UK,Northern Europe,https://ihsmarkit.com
+"
+VIVENDI
+","1,425",Communication Services,"18,986.000 Million USD",Arnaud de Puyfontaine,France,Western Europe,https://www.vivendi.com
+"
+SYNOPSYS
+",379,Technology,"3,360.000 Million USD",NULL,USA,Northern America,https://www.synopsys.com/
+"
+DOW Inc
+",454,Basic Materials,"42,950.000 Million USD",Fitterling,USA,Northern America,https://www.dow.com/
+"
+AMPHENOL CORPORATION
+",395,Technology,"8,220.000 Million USD",Richard Adam Norwitt,USA,Northern America,https://www.amphenol.com/
+"
+CHINA RESOURCES LAND
+",629,Real Estate,"22,160.000 Million USD",Tang Yong,China,Eastern Asia,http://www.crland.com.hk/
+"
+SPLUNK
+","1,125",Technology,"2,360.000 Million USD",NULL,USA,Northern America,https://www.splunk.com/
+"
+KINDER MORGAN
+",518,Energy,"13,210.000 Million USD",Steven J. Kean,USA,Northern America,https://www.kindermorgan.com/
+"
+ENGIE
+",567,Utilities,"60,050.000 Million USD",Claire Waysand,France,Western Europe,https://www.engie.com
+"
+MTR CORPORATION
+",615,Industries,"5,530.300 Million USD",Jacob Kam,Hong Kong,Eastern Asia,http://www.mtr.com.hk/
+"
+TOKIO MARINE HOLDINGS
+",496,Financial Services,"49,158.000 Million USD",Satoru Komiya,Japan,Eastern Asia,https://www.tokiomarinehd.com/en/
+"
+SNAP INC
+",266,Communication Services,"1,710.000 Million USD",NULL,USA,Northern America,https://www.snap.com/
+"
+KLA CORPORATION
+",284,Technology,"5,810.000 Million USD",NULL,USA,Northern America,https://www.kla-tencor.com/
+"
+THE BANK OF NEW YORK MELLON CORPORATION
+",367,Financial Services,"16,010.000 Million USD",Thomas P Gibbons,USA,Northern America,https://www.bnymellon.com
+"
+BANCO BRADESCO
+",599,Financial Services,"19,856.000 Million USD",Octavio de Lazari Junior,Brazil,South America,https://banco.bradesco
+"
+DENSO CORPORATION
+",264,Consumer Cyclical,"46,896.000 Million USD",Koji Arima,Japan,Eastern Asia,https://www.denso.com
+"
+ITC
+",574,Consumer Defensive,"6,285.900 Million USD",Sanjiv Puri,India,Southern Asia,https://www.itcportal.com/
+"
+WUXI BIOLOGICS (CAYMAN)
+",456,Healthcare,841.800 Million USD,NULL,China,Eastern Asia,https://www.wuxibiologics.com/
+"
+EDF (ELECTRICITE DE FRANCE)
+",557,Utilities,"84,154.000 Million USD",Jean-Bernard Levy,France,Western Europe,https://www.edfenergy.com/
+"
+CHONGQING ZHIFEI BIOLOGICAL PRODUCTS
+",729,Healthcare,"1,588.000 Million USD",NULL,China,Eastern Asia,http://www.zhifeishengwu.com/
+"
+TWITTER
+",663,Communication Services,"3,460.000 Million USD",Parag Agarwal,USA,Northern America,https://twitter.com
+"
+ROSS STORES
+",556,Consumer Cyclical,"16,040.000 Million USD",Barbara Rentler,USA,Northern America,https://www.rossstores.com/
+"
+CRRC CORPORATION
+",823,Industries,"34,352.000 Million USD",NULL,China,Eastern Asia,https://www.crrcgc.cc
+"
+PJSC POLYUS
+",954,Basic Materials,"4,998.000 Million USD",NULL,Russia,Eastern Europe,http://polyus.com/en/
+"
+MARRIOTT INTERNATIONAL
+",347,Consumer Cyclical,"20,970.000 Million USD",Anthony Capuano,USA,Northern America,https://www.marriott.com
+"
+TE CONNECTIVITY
+",363,Technology,"14,658.000 Million USD",Terrence Curtin,Switzerland,Western Europe,https://www.te.com
+"
+CUMMINS
+",619,Industries,"23,570.000 Million USD",NULL,USA,Northern America,https://www.cummins.com/
+"
+ORANGE S.A
+",736,Communication Services,"49,840.000 Million USD",Stephane Richard,France,Western Europe,https://www.orange.com
+"
+CADENCE DESIGN SYSTEMS
+",424,Technology,"2,330.000 Million USD",NULL,USA,Northern America,https://www.cadence.com/
+"
+OFFCN EDUCATION TECHNOLOGY
+","2,341",Consumer Defensive,"1,376.400 Million USD",NULL,China,Eastern Asia,http://www.offcn.com/
+"
+NATIONAL COMMERCIAL BANK
+",207,Financial Services,"5,618.700 Million USD",Faisal Omar al-Sakkaf,Saudi Arabia,Western Asia,http://www.alahli.com/
+"
+THE HERSHEY COMPANY
+",506,Consumer Defensive,"7,980.000 Million USD",NULL,USA,Northern America,https://www.thehersheycompany.com
+"
+HAIDILAO INTERNATIONAL HOLDING
+","1,616",Consumer Cyclical,"3,998.400 Million USD",NULL,China,Eastern Asia,http://www.haidilao.com/
+"
+LONGFOR GROUP HOLDINGS
+",677,Real Estate,"22,804.000 Million USD",NULL,China,Eastern Asia,https://www.longfor.com/en/
+"
+T. ROWE PRICE GROUP
+",451,Financial Services,"6,206.000 Million USD",NULL,USA,Northern America,https://www.troweprice.com
+"
+Z HOLDINGS CORPORATION
+",478,Consumer Cyclical,"9,582.300 Million USD",NULL,Japan,Eastern Asia,https://www.z-holdings.co.jp/
+"
+HYUNDAI MOTOR COMPANY
+",495,Consumer Cyclical,"91,517.000 Million USD",NULL,South Korea,Eastern Asia,https://www.hyundai.com
+"
+BOC HONG KONG
+",544,Financial Services,"9,752.500 Million USD",Gao Yingxin,Hong Kong,Eastern Asia,https://www.bochk.com
+"
+CRH PLC
+",494,Basic Materials,"27,587.000 Million USD",Albert Manifold,Ireland,Northern Europe,https://crh.com/
+"
+WANHUA CHEMICAL GROUP
+",380,Basic Materials,"10,208.000 Million USD",NULL,China,Eastern Asia,http://en.wanhuagroup.com/
+"
+MSCI
+",434,Financial Services,"1,560.000 Million USD",NULL,USA,Northern America,https://www.msci.com/
+"
+NORDEA BANK ABP
+",390,Financial Services,"9,956.800 Million USD",Frank Vang-Jensen,Finland,Northern Europe,https://www.nordea.com/
+"
+AGILENT TECHNOLOGIES
+",452,Healthcare,"5,160.000 Million USD",NULL,USA,Northern America,https://www.agilent.com/
+"
+ING GROUP
+",325,Financial Services,"20,013.000 Million USD",Steven van Rijswijk,Netherlands,Western Europe,https://www.ing.com
+"
+EAST MONEY INFORMATION
+",341,Communication Services,343.800 Million USD,NULL,China,Eastern Asia,http://www.eastmoney.com/
+"
+ASTELLAS PHARMA
+",707,Healthcare,"11,837.000 Million USD",Yoshihiko Hatanaka,Japan,Eastern Asia,https://www.astellas.com
+"
+JOHNSON CONTROLS INTERNATIONAL
+",329,Industries,"23,960.000 Million USD",George Oliver,USA,Northern America,https://www.johnsoncontrols.com/
+"
+VERISK ANALYTICS
+",622,Industries,"2,610.000 Million USD",NULL,USA,Northern America,https://www.verisk.com/
+"
+IQVIA HOLDINGS
+",396,Healthcare,"11,080.000 Million USD",NULL,USA,Northern America,https://www.iqvia.com/
+"
+SIKA AG
+",333,Basic Materials,"8,585.900 Million USD",NULL,Switzerland,Western Europe,https://www.sika.com/
+"
+E.ON SE
+",596,Utilities,"48,384.000 Million USD",NULL,Germany,Western Europe,https://www.eon.com/en.html
+"
+PACCAR
+",644,Industries,"25,590.000 Million USD",NULL,USA,Northern America,https://www.paccar.com/
+"
+HANG SENG BANK
+",555,Financial Services,"8,235.200 Million USD",Louisa Cheang Wai Wan,Hong Kong,Eastern Asia,https://www.hangseng.com
+"
+FRESENIUS SE
+",771,Healthcare,"4,543.000 Million USD",Stephan Sturm,Germany,Western Europe,https://www.fresenius.com/
+"
+SAIC MOTOR CORPORATION
+",543,Consumer Cyclical,"114,280.000 Million USD",Chen Hong,China,Eastern Asia,http://www.saicmotor.com
+"
+INNER MONGOLIA YILI INDUSTRIAL GROUP
+",507,Consumer Defensive,"13,501.000 Million USD",NULL,China,Eastern Asia,http://www.yili.com
+"
+JAPAN POST HOLDINGS
+",675,Financial Services,"108,740.000 Million USD",Hiroya Masuda,Japan,Eastern Asia,https://www.japanpost.jp/
+"
+EVERSOURCE ENERGY
+",687,Utilities,"8,520.000 Million USD",NULL,USA,Northern America,https://www.eversource.com
+"
+TERUMO CORPORATION
+",717,Healthcare,"5,722.100 Million USD",NULL,Japan,Eastern Asia,https://www.terumo.com/
+"
+PT BANK RAKYAT INDONESIA (PERSERO) TBK
+",450,Financial Services,"7,484.300 Million USD",NULL,Indonesia,South East Asia,http://www.ir-bri.com/
+"
+ANTA SPORTS PRODUCTS
+",548,Consumer Cyclical,"5,089.200 Million USD",NULL,China,Eastern Asia,http://en.anta.com/
+"
+COUNTRY GARDEN HOLDINGS COMPANY
+",991,Real Estate,"72,886.000 Million USD",Bin Mo,China,Eastern Asia,https://www.countrygarden.com.cn/
+"
+ALLSTATE CORPORATION
+",573,Financial Services,"44,670.000 Million USD",Thomas J. Wilson,USA,Northern America,https://www.allstate.com
+"
+BEST BUY
+",852,Consumer Cyclical,"43,640.000 Million USD",NULL,USA,Northern America,https://www.bestbuy.com/
+"
+KKR & CO
+",502,Financial Services,"4,220.000 Million USD",NULL,USA,Northern America,http://www.kkr.com/
+"
+JAPAN POST BANK
+",566,Financial Services,"12,931.000 Million USD",Masatsugu Nagato,Japan,Eastern Asia,https://www.jp-bank.japanpost.jp
+"
+MITSUBISHI ELECTRIC CORPORATION
+",748,Industries,"40,609.000 Million USD",NULL,Japan,Eastern Asia,https://www.mitsubishielectric.com/
+"
+GLENCORE
+",243,Basic Materials,"215,110.000 Million USD",Ivan Glasenberg,Switzerland,Western Europe,https://www.glencore.com/
+"
+SWISSCOM AG
+",724,Communication Services,"12,484.000 Million USD",NULL,Switzerland,Western Europe,https://www.swisscom.ch
+"
+BANK OF NINGBO
+",501,Financial Services,"5,261.400 Million USD",NULL,China,Eastern Asia,http://www.nbcb.cn/
+"
+ENDESA
+",894,Utilities,"22,724.000 Million USD",NULL,Spain,South Europe,https://www.endesa.com
+"
+MATCH GROUP
+",584,Communication Services,"4,750.000 Million USD",NULL,USA,Northern America,https://mtch.com/
+"
+SYSCO CORPORATION
+",487,Consumer Defensive,"52,890.000 Million USD",Kevin Hourican,USA,Northern America,https://www.sysco.com/
+"
+TESCO
+",699,Consumer Defensive,"89,369.000 Million USD",Ken Murphy,UK,Northern Europe,https://www.tescoplc.com/
+"
+CAPITAL ONE FINANCIAL CORPORATION
+",272,Financial Services,"27,830.000 Million USD",Richard Fairbank,USA,Northern America,https://www.capitalone.com/
+"
+VESTAS WIND SYSTEMS A/S
+",739,Industries,"14,333.000 Million USD",NULL,Denmark,Northern Europe,https://www.vestas.com/
+"
+BYD COMPANY
+",168,Consumer Cyclical,"23,490.000 Million USD",NULL,China,Eastern Asia,http://www.byd.com/
+"
+WEC ENERGY GROUP
+",690,Utilities,"7,520.000 Million USD",NULL,USA,Northern America,https://www.wecenergygroup.com/
+"
+HOLCIM LTD
+",651,Basic Materials,"25,225.000 Million USD",NULL,Switzerland,Western Europe,https://www.lafargeholcim.com/
+"
+YUM! BRANDS
+",513,Consumer Cyclical,"5,590.000 Million USD",Greg Creed,USA,Northern America,http://www.yum.com/
+"
+CHUNGHWA TELECOM
+",641,Communication Services,"7,470.700 Million USD",NULL,Taiwan,South East Asia,https://www.cht.com.tw
+"
+SEVEN & I HOLDINGS
+",520,Consumer Defensive,"60,460.000 Million USD",Ryuichi Isaka,Japan,Eastern Asia,https://www.7andi.com
+"
+REPUBLIC SERVICES
+",474,Industries,"10,290.000 Million USD",NULL,USA,Northern America,https://www.republicservices.com/
+"
+MANULIFE FINANCIAL CORPORATION
+",517,Financial Services,"61,633.000 Million USD",Roy Gori,Canada,Northern America,https://www.manulife.com/
+"
+THE CLOROX COMPANY
+",946,Consumer Defensive,"6,720.000 Million USD",NULL,USA,Northern America,https://www.thecloroxcompany.com/
+"
+ALCON
+",512,Healthcare,"8,183.700 Million USD",NULL,Switzerland,Western Europe,https://www.alcon.com/
+"
+LONGI GREEN ENERGY TECHNOLOGY
+",258,Technology,"4,934.600 Million USD",NULL,China,Eastern Asia,http://en.longi-silicon.com/
+"
+CITIC
+",685,Industries,"95,342.000 Million USD",Stanley Ching,China,Eastern Asia,https://www.citic.com
+"
+HORMEL FOODS CORPORATION
+",770,Consumer Defensive,"9,490.000 Million USD",NULL,USA,Northern America,https://www.hormelfoods.com/
+"
+CREDIT AGRICOLE
+",421,Financial Services,"22,565.000 Million USD",Philippe Brassac,France,Western Europe,https://www.credit-agricole.com
+"
+THE TRAVELERS COMPANIES
+",497,Financial Services,"31,580.000 Million USD",William H. Heyman,USA,Northern America,https://www.travelers.com/
+"
+FRANCO-NEVADA CORPORATION
+",864,Basic Materials,844.000 Million USD,NULL,Canada,Northern America,https://www.franco-nevada.com
+"
+AUTOZONE
+",483,Consumer Cyclical,"12,631.000 Million USD",NULL,USA,Northern America,https://www.autozone.com/
+"
+CHINA TELECOM CORPORATION
+",319,Communication Services,"56,360.000 Million USD",Jie Yang,China,Eastern Asia,https://www.chinatelecom-h.com
+"
+MITSUI & CO.
+",521,Conglomerate,"62,654.000 Million USD",Tatsuo Yasunaga,Japan,Eastern Asia,https://www.mitsui.com
+"
+ZIMMER BIOMET HOLDINGS
+",784,Healthcare,"7,980.000 Million USD",NULL,USA,Northern America,https://www.zimmerbiomet.com
+"
+H & M HENNES & MAURITZ AB
+",652,Consumer Cyclical,"27,931.000 Million USD",Helena Helmersson,Sweden,Northern Europe,https://www.hm.com/
+"
+D.R. HORTON
+",613,Consumer Cyclical,"17,590.000 Million USD",NULL,USA,Northern America,https://www.drhorton.com/
+"
+KROGER
+",586,Consumer Defensive,"122,280.000 Million USD",NULL,USA,Northern America,https://www.thekrogerco.com/
+"
+PPG INDUSTRIES
+",510,Basic Materials,"15,140.000 Million USD",Michael H. McGarry,USA,Northern America,http://corporate.ppg.com
+"
+A.P. MOLLER - MAERSK A/S
+",255,Industries,"38,890.000 Million USD",NULL,Denmark,Northern Europe,https://www.maersk.com/
+"
+OVERSEA-CHINESE BANKING CORPORATION
+",516,Financial Services,"10,770.000 Million USD",Samuel N. Tsien,Singapore,South East Asia,http://www.ocbc.com
+"
+CENTRAL JAPAN RAILWAY COMPANY
+",836,Industries,"16,786.000 Million USD",Hiroto Takeuchi,Japan,Eastern Asia,https://global.jr-central.co.jp
+"
+FASTENAL COMPANY
+",597,Industries,"5,330.000 Million USD",NULL,USA,Northern America,https://www.fastenal.com/
+"
+ANSYS
+",666,Technology,"1,510.000 Million USD",NULL,USA,Northern America,https://www.ansys.com/
+"
+NOKIA CORPORATION
+",582,Technology,"27,512.000 Million USD",NULL,Finland,Northern Europe,https://www.nokia.com/
+"
+POLY DEVELOPMENTS AND HOLDINGS GROUP
+",696,Real Estate,"35,390.000 Million USD",NULL,China,Eastern Asia,http://www.polycn.com/
+"
+HENAN SHUANGHUI INVESTMENT & DEVELOPMENT
+","1,158",Consumer Defensive,"11,090.000 Million USD",NULL,China,Eastern Asia,http://www.shuanghui.net/
+"
+JIANGSU YANGHE BREWERY JOINT-STOCK
+",525,Consumer Defensive,"3,468.900 Million USD",NULL,China,Eastern Asia,https://www.chinayanghe.com/
+"
+SEAGEN
+",804,Healthcare,917.000 Million USD,NULL,USA,Northern America,https://www.seattlegenetics.com/
+"
+MARUTI SUZUKI INDIA
+",654,Consumer Cyclical,"10,269.000 Million USD",Kenichi Ayukawa,India,Southern Asia,https://www.marutisuzuki.com/
+"
+CHINA EVERBRIGHT BANK COMPANY
+",769,Financial Services,"19,922.000 Million USD",Zhang Jinliang,China,Eastern Asia,http://www.cebbank.com/
+"
+MICROCHIP TECHNOLOGY
+",436,Technology,"5,270.000 Million USD",NULL,USA,Northern America,https://www.microchip.com/
+"
+COMPASS GROUP
+",491,Consumer Cyclical,"34,332.000 Million USD",Dominic Blakemore,UK,Northern Europe,https://www.compass-group.com
+"
+SINGAPORE TELECOMMUNICATIONS (SINGTEL)
+",742,Communication Services,"12,855.000 Million USD",Chua Sock Koong,Singapore,South East Asia,https://www.singtel.com/
+"
+MCCORMICK & COMPANY
+",824,Consumer Defensive,"5,340.000 Million USD",NULL,USA,Northern America,https://www.mccormickcorporation.com/
+"
+PUBLIC SERVICE ENTERPRISE GROUP
+",614,Utilities,"10,070.000 Million USD",NULL,USA,Northern America,https://www.pseg.com/
+"
+FORMOSA PETROCHEMICAL CORPORATION
+",618,Energy,"23,257.000 Million USD",Mihn Tsao,Taiwan,South East Asia,http://www.fpcc.com.tw
+"
+PARTNERS GROUP HOLDING AG
+",504,Financial Services,"1,506.400 Million USD",NULL,Switzerland,Western Europe,https://www.partnersgroup.com/en/
+"
+TRANSURBAN GROUP
+",139,Industries,"3,082.800 Million USD",NULL,Australia,"Australia, New Zealand",https://www.transurban.com/
+"
+DSM
+",553,Basic Materials,"10,632.000 Million USD",NULL,Netherlands,Western Europe,https://www.dsm.com
+"
+PRUDENTIAL FINANCIAL
+",459,Financial Services,"64,810.000 Million USD",Charles F. Lowrey,USA,Northern America,https://www.prudential.com/
+"
+PHILLIPS 66
+",576,Energy,"107,290.000 Million USD",Greg C. Garland,USA,Northern America,https://www.phillips66.com/
+"
+CREDIT SUISSE GROUP
+",862,Financial Services,"22,344.000 Million USD",Thomas Gottstein,Switzerland,Western Europe,https://www.credit-suisse.com
+"
+FUJITSU
+",653,Technology,"35,108.000 Million USD",NULL,Japan,Eastern Asia,https://www.fujitsu.com/
+"
+BAJAJ FINANCE
+",294,Financial Services,"3,428.500 Million USD",Sanjiv Bajaj,India,Southern Asia,https://www.bajajfinserv.in/
+"
+KAKAO
+",569,Communication Services,"3,658.000 Million USD",NULL,South Korea,Eastern Asia,https://www.kakaocorp.com/?lang=en
+"
+PAYCHEX
+",419,Industries,"4,040.000 Million USD",Martin Mucci,USA,Northern America,https://www.paychex.com/
+"
+ROCKWELL AUTOMATION
+",537,Industries,"6,690.000 Million USD",NULL,USA,Northern America,https://www.rockwellautomation.com
+"
+FORD MOTOR COMPANY
+",160,Consumer Cyclical,"155,900.000 Million USD",Jim Hackett,USA,Northern America,https://www.ford.com/
+"
+PARKER-HANNIFIN CORPORATION
+",481,Industries,"13,690.000 Million USD",NULL,USA,Northern America,https://www.parker.com
+"
+HANSOH PHARMACEUTICAL GROUP COMPANY
+","1,474",Healthcare,"1,128.700 Million USD",NULL,China,Eastern Asia,http://www.hansoh.cn/
+"
+SCHINDLER HOLDING AG
+",740,Industries,"12,285.000 Million USD",NULL,Switzerland,Western Europe,https://www.schindler.com
+"
+UNICHARM CORPORATION
+",837,Consumer Defensive,"6,499.200 Million USD",NULL,Japan,Eastern Asia,http://www.unicharm.co.jp
+"
+LUZHOU LAOJIAO
+",346,Consumer Defensive,"2,372.600 Million USD",NULL,China,Eastern Asia,http://www.lzlj.com/
+"
+MODERNA
+",188,Healthcare,803.000 Million USD,NULL,USA,Northern America,https://www.modernatx.com/
+"
+FRESENIUS MEDICAL CARE AG & CO. KGAA
+","1,097",Healthcare,"20,622.000 Million USD",NULL,Germany,Western Europe,https://www.freseniusmedicalcare.com
+"
+CELLNEX TELECOM
+",608,Communication Services,"1,843.200 Million USD",NULL,Spain,South Europe,https://www.cellnextelecom.com/
+"
+AIER EYE HOSPITAL GROUP
+",635,Healthcare,"1,498.500 Million USD",NULL,China,Eastern Asia,https://www.aierchina.com/
+"
+WASTE CONNECTIONS
+",612,Industries,"4,268.100 Million USD",NULL,Canada,Northern America,https://www.wasteconnections.com/
+"
+DATADOG
+",444,Technology,603.000 Million USD,NULL,USA,Northern America,https://www.datadoghq.com/
+"
+TELSTRA CORPORATION
+",590,Communication Services,"19,388.000 Million USD",Andy Penn,Australia,"Australia, New Zealand",https://www.telstra.com.au/
+"
+HP INC
+",480,Technology,"58,750.000 Million USD",NULL,USA,Northern America,https://www8.hp.com
+"
+LLOYDS BANKING GROUP
+",376,Financial Services,"56,690.000 Million USD",Charlie Nunn,UK,Northern Europe,https://www.lloydsbankinggroup.com/
+"
+AMERICAN WATER WORKS COMPANY
+",668,Utilities,"3,610.000 Million USD",NULL,USA,Northern America,https://amwater.com/
+"
+RESMED
+",600,Healthcare,"2,960.000 Million USD",NULL,USA,Northern America,https://www.resmed.com
+"
+WILLIAMS COMPANIES
+",611,Energy,"8,200.000 Million USD",NULL,USA,Northern America,https://co.williams.com/
+"
+PALO ALTO NETWORKS
+",362,Technology,"3,410.000 Million USD",NULL,USA,Northern America,https://www.paloaltonetworks.com/
+"
+TRANSDIGM GROUP
+",571,Industries,"5,220.000 Million USD",NULL,USA,Northern America,https://www.transdigm.com/
+"
+OKTA
+",692,Technology,586.000 Million USD,NULL,USA,Northern America,https://www.okta.com/
+"
+AFLAC
+",490,Financial Services,"22,220.000 Million USD",Dan Amos,USA,Northern America,https://www.aflac.com/
+"
+SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION
+",701,Technology,"3,907.000 Million USD",NULL,China,Eastern Asia,https://www.smics.com/en/
+"
+RINGCENTRAL
+","1,261",Technology,"1,183.000 Million USD",NULL,USA,Northern America,https://www.ringcentral.com/
+"
+NIPPON PAINT HOLDINGS
+",829,Basic Materials,"6,297.200 Million USD",NULL,Japan,Eastern Asia,https://www.nipponpaint-holdings.com/
+"
+OLYMPUS CORPORATION
+",738,Healthcare,"7,256.300 Million USD",NULL,Japan,Eastern Asia,https://www.olympus-global.com
+"
+MOTOROLA SOLUTIONS
+",473,Technology,"7,780.000 Million USD",NULL,USA,Northern America,https://www.motorolasolutions.com
+"
+SCHLUMBERGER
+",394,Energy,"32,920.000 Million USD",Olivier Le Peuch,USA,Northern America,https://www.slb.com/
+"
+HONG KONG AND CHINA GAS COMPANY
+",721,Utilities,"1,498.800 Million USD",NULL,Hong Kong,Eastern Asia,https://www.towngas.com
+"
+STMICROELECTRONICS
+",437,Technology,"10,219.000 Million USD",NULL,Switzerland,Western Europe,https://www.st.com
+"
+CK HUTCHISON HOLDINGS
+",811,Industries,"34,631.000 Million USD",Mr. Li,Hong Kong,Eastern Asia,http://www.ckh.com.hk
+"
+WEG
+",960,Industries,"3,493.800 Million USD",NULL,Brazil,South America,https://www.weg.net/
+"
+WILLIS TOWERS WATSON PUBLIC COMPANY
+",725,Financial Services,"9,040.000 Million USD",NULL,UK,Northern Europe,https://www.willistowerswatson.com/en
+"
+MAGAZINE LUIZA
+","2,441",Consumer Cyclical,"3,977.200 Million USD",NULL,Brazil,South America,https://www.magazineluiza.com.br/
+"
+SARTORIUS STEDIM BIOTECH
+",528,Healthcare,"2,253.800 Million USD",NULL,Germany,Western Europe,https://www.sartorius.com
+"
+STANLEY BLACK & DECKER
+",686,Industries,"14,440.000 Million USD",NULL,USA,Northern America,https://www.stanleyblackanddecker.com/
+"
+SUN LIFE FINANCIAL
+",634,Financial Services,"31,426.000 Million USD",NULL,Canada,Northern America,https://www.sunlife.com/
+"
+BEIERSDORF
+",903,Consumer Defensive,"9,030.500 Million USD",NULL,Germany,Western Europe,https://www.beiersdorf.com/
+"
+LIBERTY BROADBAND CORPORATION
+",783,Communication Services,15.000 Million USD,NULL,USA,Northern America,http://www.libertybroadband.com/
+"
+CHANGCHUN HIGH & NEW TECHNOLOGY INDUSTRY (GROUP)
+","1,228",Healthcare,"1,286.400 Million USD",NULL,China,Eastern Asia,https://www.cchn.com.cn/
+"
+EOG RESOURCES
+",318,Energy,"17,120.000 Million USD",William R. Thomas,USA,Northern America,https://www.eogresources.com/
+"
+EISAI
+","1,258",Healthcare,"6,330.000 Million USD",NULL,Japan,Eastern Asia,https://www.eisai.com/index.html
+"
+SIRIUS XM HOLDINGS
+",847,Communication Services,"7,790.000 Million USD",James E. Meyer,USA,Northern America,https://www.siriusxm.com/
+"
+CHINA UNICOM (HONG KONG)
+","1,283",Communication Services,"43,577.000 Million USD",NULL,China,Eastern Asia,https://www.chinaunicom.com.hk
+"
+TENCENT MUSIC ENTERTAINMENT GROUP
+","1,681",Communication Services,"3,815.100 Million USD",NULL,China,Eastern Asia,https://ir.tencentmusic.com/
+"
+KERRY GROUP
+",761,Consumer Defensive,"8,204.500 Million USD",NULL,Ireland,Northern Europe,https://www.kerrygroup.com/
+"
+CONSTELLATION SOFTWARE
+",575,Technology,"3,060.000 Million USD",NULL,Canada,Northern America,http://www.csisoftware.com/
+"
+GENMAB A/S
+",883,Healthcare,"1,617.800 Million USD",NULL,Denmark,Northern Europe,https://www.genmab.com/
+"
+SANY HEAVY INDUSTRY CO. LTD
+",631,Industries,"11,350.000 Million USD",NULL,China,Eastern Asia,https://www.sanyglobal.com/
+"
+BALL CORPORATION
+",716,Consumer Cyclical,"11,470.000 Million USD",NULL,USA,Northern America,https://www.ball.com
+"
+ZTO EXPRESS (CAYMAN)
+",913,Industries,"3,316.500 Million USD",NULL,China,Eastern Asia,https://www.zto.com/
+"
+BOE TECHNOLOGY GROUP COMPANY
+",689,Technology,"17,409.000 Million USD",NULL,China,Eastern Asia,https://www.boe.com/en/
+"
+HCL TECHNOLOGIES
+",412,Technology,"9,187.900 Million USD",NULL,India,Southern Asia,https://www.hcltech.com/
+"
+XILINX
+",403,Technology,"3,160.000 Million USD",NULL,USA,Northern America,https://www.xilinx.com/
+"
+FLUTTER ENTERTAINMENT
+",773,Consumer Cyclical,"6,091.300 Million USD",NULL,Ireland,Northern Europe,https://www.flutter.com/
+"
+CORNING
+",645,Ceramic Products,"11,500.000 Million USD",NULL,USA,Northern America,https://www.corning.com
+"
+CLP HOLDINGS
+",834,Utilities,"10,347.000 Million USD",NULL,Hong Kong,Eastern Asia,https://www.clpgroup.com/en
+"
+AIRPORTS OF THAILAND
+",813,Industries,966.550 Million USD,NULL,Thailand,South East Asia,https://www.airportthai.co.th/en/
+"
+ASSA ABLOY AB (PUBL)
+",623,Industries,"11,283.000 Million USD",NULL,Sweden,Northern Europe,https://www.assaabloy.com/
+"
+MCKESSON CORPORATION
+",535,Healthcare,"231,050.000 Million USD",NULL,USA,Northern America,https://www.mckesson.com/
+"
+NITORI HOLDINGS
+","1,193",Consumer Cyclical,"5,844.000 Million USD",NULL,Japan,Eastern Asia,https://www.nitorihd.co.jp/en/
+"
+HAITONG SECURITIES
+",969,Financial Services,"5,145.400 Million USD",NULL,China,Eastern Asia,http://www.haitongib.com/en
+"
+BARCLAYS PLC
+",407,Financial Services,"29,852.000 Million USD",Jes Staley,UK,Northern Europe,https://home.barclays/
+"
+ASIAN PAINTS
+",426,Basic Materials,"2,627.400 Million USD",Amit Syngle,India,Southern Asia,https://www.asianpaints.com/
+"
+AMERICAN INTERNATIONAL GROUP (AIG)
+",384,Financial Services,"49,790.000 Million USD",Brian Duperreault,USA,Northern America,https://www.aig.com/
+"
+UNITED OVERSEAS BANK
+",594,Financial Services,"7,421.500 Million USD",Wee Ee Cheong,Singapore,South East Asia,http://www.uobgroup.com/
+"
+SUNCOR ENERGY
+",527,Energy,"30,365.000 Million USD",Mark S. Little,Canada,Northern America,https://www.suncor.com/en-ca
+"
+EAST JAPAN RAILWAY COMPANY
+",939,Industries,"26,814.000 Million USD",Tetsuro Tomita,Japan,Eastern Asia,https://www.jreast.co.jp
+"
+HILTON WORLDWIDE HOLDINGS
+",475,Consumer Cyclical,"9,450.000 Million USD",Christopher J. Nassetta,USA,Northern America,https://www.hilton.com
+"
+ARCHER-DANIELS-MIDLAND COMPANY
+",522,Consumer Defensive,"64,650.000 Million USD",NULL,USA,Northern America,https://www.adm.com/
+"
+DNB ASA
+",563,Financial Services,"6,512.200 Million USD",NULL,Norway,Northern Europe,https://www.dnb.no/en
+"
+CROWDSTRIKE HOLDINGS
+",460,Technology,874.000 Million USD,NULL,USA,Northern America,https://www.crowdstrike.com/
+"
+FORTIVE CORPORATION
+",819,Technology,"7,320.000 Million USD",NULL,USA,Northern America,https://www.fortive.com/
+"
+HEXAGON AB (PUBL)
+",503,Technology,"4,610.300 Million USD",NULL,Sweden,Northern Europe,https://hexagon.com/
+"
+CONSOLIDATED EDISON
+",695,Utilities,"12,570.000 Million USD",NULL,USA,Northern America,https://www.conedison.com/en
+"
+LENNAR CORPORATION
+",676,Consumer Cyclical,"22,260.000 Million USD",NULL,USA,Northern America,https://www.lennar.com/
+"
+GOODMAN GROUP
+",637,Real Estate,"1,710.000 Million USD",NULL,Australia,"Australia, New Zealand",https://www.goodman.com/
+"
+OTSUKA HOLDINGS
+","1,039",Healthcare,"12,704.000 Million USD",NULL,Japan,Eastern Asia,https://www.otsuka.com/en/
+"
+V.F. CORPORATION
+",732,Consumer Cyclical,"10,480.000 Million USD",Steve Rendle,USA,Northern America,https://www.vfc.com/
+"
+ASSICURAZIONI GENERALI
+",625,Financial Services,"108,200.000 Million USD",Philippe Donnet,Italy,South Europe,https://www.generali.com/
+"
+TELUS CORPORATION
+",657,Communication Services,"11,554.000 Million USD",NULL,Canada,Northern America,https://www.telus.com
+"
+CHURCH & DWIGHT
+",817,Consumer Defensive,"4,350.000 Million USD",NULL,USA,Northern America,https://churchdwight.com
+"
+CHINA MERCHANTS SECURITIES
+",952,Financial Services,"3,485.200 Million USD",NULL,China,Eastern Asia,http://www.newone.com.cn/en
+"
+STATE STREET CORPORATION
+",554,Financial Services,"10,620.000 Million USD",NULL,USA,Northern America,http://www.statestreet.com
+"
+DOLLAR TREE
+",664,Consumer Defensive,"23,610.000 Million USD",NULL,USA,Northern America,https://www.dollartree.com
+"
+OCADO GROUP
+","1,273",Consumer Defensive,"2,424.700 Million USD",NULL,UK,Northern Europe,http://www.ocadogroup.com/
+"
+GUOTAI JUNAN SECURITIES
+",916,Financial Services,"4,464.900 Million USD",NULL,China,Eastern Asia,https://www.gtja.com.hk/english/
+"
+VERISIGN
+",798,Technology,"1,230.000 Million USD",NULL,USA,Northern America,https://www.verisign.com
+"
+SKYWORKS SOLUTIONS
+",828,Technology,"3,370.000 Million USD",NULL,USA,Northern America,http://www.skyworksinc.com/
+"
+AMADEUS IT GROUP
+",655,Technology,"6,572.600 Million USD",Luis Maroto,Spain,South Europe,https://amadeus.com/en
+"
+COPART
+",646,Industries,"2,200.000 Million USD",NULL,USA,Northern America,https://www.copart.com/
+"
+ESSITY AB (PUBL)
+",929,Consumer Defensive,"15,477.000 Million USD",NULL,Sweden,Northern Europe,https://www.essity.com/
+"
+KELLOGG COMPANY
+",923,Consumer Defensive,"13,570.000 Million USD",NULL,USA,Northern America,https://www.kelloggcompany.com
+"
+WINGTECH TECHNOLOGY
+",873,Technology,"6,236.700 Million USD",NULL,China,Eastern Asia,http://www.wingtech.com/
+"
+RWE
+",795,Utilities,"15,260.000 Million USD",NULL,Germany,Western Europe,https://www.group.rwe/en
+"
+SAMSUNG SDI
+",591,Technology,"9,938.700 Million USD",NULL,South Korea,Eastern Asia,http://www.samsungsdi.com
+"
+WELLTOWER
+",534,Real Estate,"5,100.000 Million USD",Thomas J. DeRosa,USA,Northern America,https://welltower.com/
+"
+LG HOUSEHOLD & HEALTH CARE
+","1,311",Consumer Defensive,"3,888.000 Million USD",NULL,South Korea,Eastern Asia,http://www.lghnh.com
+"
+CHINA UNITED NETWORK COMMUNICATIONS
+","1,068",Communication Services,"10,347.000 Million USD",NULL,Hong Kong,Eastern Asia,http://www.chinaunicom-a.com/
+"
+WHEATON PRECIOUS METALS
+","1,174",Basic Materials,861.000 Million USD,NULL,Canada,Northern America,https://www.wheatonpm.com/
+"
+ECOPETROL
+",756,Energy,"18,587.000 Million USD",Felipe Bayon,Colombia,South America,https://www.ecopetrol.com.co
+"
+SWISS RE
+",710,Financial Services,"49,170.000 Million USD",Christian Mumenthaler,Switzerland,Western Europe,https://www.swissre.com/
+"
+ALIGN TECHNOLOGY
+",465,Healthcare,"2,410.000 Million USD",NULL,USA,Northern America,https://www.aligntech.com/
+"
+KBC GROUP NV
+",538,Financial Services,"8,969.200 Million USD",Johan Thijs,Belgium,Western Europe,https://www.kbc.com
+"
+OLD DOMINION FREIGHT LINE
+",533,Industries,"4,109.000 Million USD",NULL,USA,Northern America,https://www.odfl.com/
+"
+ZTE CORPORATION
+",911,Technology,"13,610.000 Million USD",NULL,China,Eastern Asia,https://www.ztedevices.com/en/
+"
+HEINEKEN HOLDING
+",779,Consumer Defensive,"28,283.000 Million USD",NULL,Netherlands,Western Europe,https://www.theheinekencompany.com
+"
+SANDVIK AB
+",588,Industries,"12,256.000 Million USD",NULL,Sweden,Northern Europe,http://home.sandvik/
+"
+NEW CHINA LIFE INSURANCE COMPANY
+","1,274",Financial Services,"26,100.000 Million USD",NULL,China,Eastern Asia,https://www.newchinalife.com/
+"
+MARATHON PETROLEUM CORPORATION
+",455,Energy,"123,950.000 Million USD",Michael J. Hennigan,USA,Northern America,http://www.marathonpetroleum.com/
+"
+STATE BANK OF INDIA
+",310,Financial Services,"47,090.000 Million USD",Vinay M Tonse,India,Southern Asia,https://www.onlinesbi.com/
+"
+AMETEK
+",632,Industries,"5,160.000 Million USD",NULL,USA,Northern America,https://www.amtek.com/
+"
+METTLER-TOLEDO INTERNATIONAL
+",585,Healthcare,"3,010.000 Million USD",NULL,USA,Northern America,https://www.mt.com
+"
+BEIJING KINGSOFT OFFICE SOFTWARE
+","1,168",Technology,339.150 Million USD,NULL,China,Eastern Asia,http://www.kingsoft.com/
+"
+TELENOR ASA
+",956,Communication Services,"12,503.000 Million USD",NULL,Norway,Northern Europe,https://www.telenor.com/
+"
+TYSON FOODS
+",630,Consumer Defensive,"42,400.000 Million USD",Noel W. White,USA,Northern America,https://www.tysonfoods.com/
+"
+CHEWY
+","1,024",Consumer Cyclical,"4,846.000 Million USD",NULL,USA,Northern America,https://www.chewy.com/
+"
+CANADIAN NATURAL RESOURCES
+",331,Energy,"19,317.000 Million USD",Murray Edwards,Canada,Northern America,https://www.cnrl.com/
+"
+TECHTRONIC INDUSTRIES COMPANY
+",603,Industries,"9,812.000 Million USD",NULL,Hong Kong,Eastern Asia,https://www.ttigroup.com/
+"
+WILL SEMICONDUCTOR
+",536,Technology,"2,044.700 Million USD",NULL,China,Eastern Asia,http://www.willsemi.com/
+"
+APTIV
+",430,Consumer Cyclical,"13,066.000 Million USD",NULL,Ireland,Northern Europe,https://www.aptiv.com/
+"
+SINO BIOPHARMACEUTICAL
+","1,423",Healthcare,"3,634.500 Million USD",NULL,Hong Kong,Eastern Asia,http://www.sinobiopharm.com/
+"
+B3 - BRASIL BOLSA BALCAO
+","1,606",Financial Services,"1,602.600 Million USD",NULL,Brazil,South America,http://www.b3.com.br/
+"
+BAE SYSTEMS
+",877,Industries,"25,261.000 Million USD",NULL,UK,Northern Europe,https://www.baesystems.com
+"
+DTE ENERGY COMPANY
+",900,Utilities,"12,670.000 Million USD",NULL,USA,Northern America,https://newlook.dteenergy.com
+"
+DELIVERY HERO SE
+",867,Online Food Delivery,"1,459.700 Million USD",NULL,Germany,Western Europe,https://www.deliveryhero.com/
+"
+CAPGEMINI SE
+",526,Technology,"16,668.000 Million USD",NULL,France,Western Europe,https://www.capgemini.com/
+"
+SM INVESTMENTS CORPORATION
+",917,Conglomerate,"7,543.000 Million USD",NULL,Philippines,South East Asia,https://www.sminvestments.com/
+"
+MARVELL TECHNOLOGY GROUP
+",246,Technology,"2,969.000 Million USD",NULL,Bermuda,Northern America,https://www.marvell.com/
+"
+YANDEX
+","1,059",Communication Services,"2,838.500 Million USD",NULL,Russia,Eastern Europe,https://yandex.com/company/
+"
+FIAT CHRYSLER AUTOMOBILES
+",481,Consumer Cyclical,"127,660.000 Million USD",NULL,UK,Northern Europe,https://www.fcagroup.com
+"
+UCB SA
+","1,006",Healthcare,"6,309.500 Million USD",NULL,Belgium,Western Europe,https://www.ucb.com
+"
+WOLTERS KLUWER
+",730,Communication Services,"5,442.200 Million USD",NULL,Netherlands,Western Europe,https://wolterskluwer.com/
+"
+CHINA RESOURCES BEER (HOLDINGS) COMPANY
+",845,Consumer Defensive,"4,717.200 Million USD",NULL,Hong Kong,Eastern Asia,http://www.crbeer.com.hk/
+"
+KUEHNE + NAGEL INTERNATIONAL AG
+",531,Industries,"22,216.000 Million USD",NULL,Switzerland,Western Europe,https://home.kuehne-nagel.com
+"
+LEGRAND SA
+",681,Industries,"7,162.800 Million USD",NULL,France,Western Europe,https://www.legrand.com/
+"
+ALEXION PHARMACEUTICALS
+",523,Healthcare,"4,990.000 Million USD",NULL,USA,Northern America,http://alexion.com/
+"
+NEW ORIENTAL EDUCATION & TECHNOLOGY GROUP
+","4,657",Consumer Defensive,"3,570.000 Million USD",NULL,China,Eastern Asia,http://www.neworiental.org/english/
+"
+CERNER CORPORATION
+",772,Healthcare,"5,690.000 Million USD",NULL,USA,Northern America,https://www.cerner.com/
+"
+LYONDELLBASELL INDUSTRIES
+",643,Basic Materials,"34,730.000 Million USD",Bhavesh V. Patel,Netherlands,Western Europe,https://www.lyondellbasell.com/
+"
+SHISEIDO COMPANY
+",955,Consumer Defensive,"10,297.000 Million USD",NULL,Japan,Eastern Asia,https://www.shiseidogroup.com/
+"
+SAMPO OYJ
+",744,Financial Services,"10,268.000 Million USD",NULL,Finland,Northern Europe,https://www.sampo.com/
+"
+FERGUSON
+",532,Industries,"30,374.000 Million USD",NULL,UK,Northern Europe,https://www.ferguson.com
+"
+BEIGENE
+",898,Healthcare,309.000 Million USD,NULL,China,Eastern Asia,https://www.beigene.com/
+"
+NEXON
+","1,203",Communication Services,"2,666.500 Million USD",NULL,Japan,Eastern Asia,https://ir.nexon.co.jp/en/
+"
+THE TRADE DESK
+",539,Technology,836.000 Million USD,NULL,USA,Northern America,https://www.thetradedesk.com/
+"
+TELEFONICA SA
+",833,Communication Services,"57,138.000 Million USD",Jose Maria Alvarez-Pallete Lopez,Spain,South Europe,https://www.telefonica.com
+"
+PPL CORPORATION
+",925,Utilities,"7,770.000 Million USD",NULL,USA,Northern America,https://www.pplweb.com/
+"
+GSX TECHEDU
+","1,415",Software and IT,"1,030.000 Million USD",NULL,China,Eastern Asia,https://www.baijia.com/
+"
+ROGERS COMMUNICATIONS
+",851,Communication Services,"11,938.000 Million USD",NULL,Canada,Northern America,https://www.rogers.com
+"
+ALEXANDRIA REAL ESTATE EQUITIES
+",620,Real Estate,"1,530.000 Million USD",NULL,USA,Northern America,http://www.are.com/
+"
+AEON CO LTD
+","1,055",Retail,"78,296.000 Million USD",NULL,Japan,Eastern Asia,https://www.aeon.info/en/
+"
+WEYERHAEUSER COMPANY
+",697,Real Estate,"6,550.000 Million USD",NULL,USA,Northern America,https://www.weyerhaeuser.com/
+"
+SUNAC CHINA HOLDINGS
+","2,544",Real Estate,"25,397.000 Million USD",NULL,China,Eastern Asia,http://www.sunac.com.cn
+"
+ZIJIN MINING GROUP COMPANY
+",562,Basic Materials,"20,415.000 Million USD",NULL,China,Eastern Asia,http://www.zijinmining.com/
+"
+INTERACTIVE BROKERS GROUP
+",650,Financial Services,"1,687.000 Million USD",NULL,USA,Northern America,https://www.interactivebrokers.com/
+"
+VALERO ENERGY CORPORATION
+",627,Energy,"108,320.000 Million USD",Joseph W. Gorder,USA,Northern America,https://www.valero.com
+"
+AVALONBAY COMMUNITIES
+",598,Real Estate,"2,320.000 Million USD",NULL,USA,Northern America,https://www.avaloncommunities.com
+"
+UNICREDIT
+",580,Financial Services,"22,668.000 Million USD",Jean-Pierre Mustier,Italy,South Europe,https://www.unicredit.it
+"
+SHENZHOU INTERNATIONAL GROUP HOLDINGS
+",764,Consumer Cyclical,"3,399.800 Million USD",NULL,China,Eastern Asia,http://www.shenzhouintl.com/
+"
+NASDAQ
+",647,Financial Services,"4,260.000 Million USD",NULL,USA,Northern America,https://www.nasdaq.com/
+"
+COMPAGNIE DE SAINT-GOBAIN
+",530,Ceramic Products,"50,236.000 Million USD",NULL,France,Western Europe,https://www.saint-gobain.com
+"
+FORTINET
+",368,Technology,"2,150.000 Million USD",NULL,USA,Northern America,https://www.fortinet.com/
+"
+CORTEVA
+",587,Basic Materials,"13,840.000 Million USD",NULL,USA,Northern America,https://www.corteva.com/
+"
+PT UNILEVER INDONESIA TBK
+","1,703",Consumer Defensive,"2,965.100 Million USD",NULL,Indonesia,South East Asia,https://www.unilever.co.id/
+"
+NEW HOPE LIUHE
+","1,621",Consumer Defensive,"12,308.000 Million USD",NULL,China,Eastern Asia,http://www.newhopeagri.com/
+"
+NUTRIEN
+",514,Basic Materials,"15,858.000 Million USD",NULL,Canada,Northern America,https://www.nutrien.com/
+"
+KYOCERA CORPORATION
+",938,Technology,"14,551.000 Million USD",NULL,Japan,Eastern Asia,https://global.kyocera.com/
+"
+REALTY INCOME CORPORATION
+",505,Real Estate,"1,490.000 Million USD",NULL,USA,Northern America,https://www.realtyincome.com
+"
+MITSUBISHI ESTATE
+","1,111",Real Estate,"14,551.000 Million USD",NULL,Japan,Eastern Asia,http://www.mec.co.jp
+"
+SECOM
+","1,351",Industries,"9,646.000 Million USD",NULL,Japan,Eastern Asia,https://www.secom.co.jp/english/
+"
+PANASONIC CORPORATION
+",793,Technology,"68,159.000 Million USD",NULL,Japan,Eastern Asia,https://www.panasonic.com
+"
+SHANXI XINGHUACUN FEN WINE FACTORY
+",324,Consumer Defensive,"1,782.000 Million USD",NULL,China,Eastern Asia,http://www.sx-xhcfj.com/
+"
+FOMENTO ECONOMICO MEXICANOB. DE C.V. (FEMSA)
+",731,Consumer Defensive,"25,335.000 Million USD",NULL,Mexico,Central America,http://www.femsa.com/en/
+"
+AENA S.M.E
+",854,Industries,"5,242.700 Million USD",NULL,Spain,South Europe,http://www.aena.es/
+"
+SHANGHAI INTERNATIONAL AIRPORT
+","1,339",Industries,"1,641.600 Million USD",NULL,China,Eastern Asia,https://www.shairport.com/
+"
+BRIDGESTONE CORPORATION
+",684,Consumer Cyclical,"32,078.000 Million USD",NULL,Japan,Eastern Asia,https://www.bridgestone.com
+"
+FREEPORT-MCMORAN
+",295,Basic Materials,"14,400.000 Million USD",NULL,USA,Northern America,https://www.fcx.com/
+"
+NESTLE INDIA
+",821,Consumer Defensive,"1,608.000 Million USD",NULL,India,Southern Asia,https://www.nestle.in/
+"
+ASSOCIATED BRITISH FOODS
+",948,Consumer Defensive,"21,837.000 Million USD",NULL,UK,Northern Europe,https://www.abf.co.uk/
+"
+WILMAR INTERNATIONAL
+","1,030",Consumer Defensive,"42,640.000 Million USD",NULL,Singapore,South East Asia,https://www.wilmar-international.com/
+"
+GRUPO MEXICO
+",602,Basic Materials,"10,909.000 Million USD",NULL,Mexico,Central America,https://www.gmexico.com/
+"
+YUM CHINA HOLDINGS
+",982,Consumer Cyclical,"8,263.000 Million USD",NULL,China,Eastern Asia,http://www.yumchina.com/en/
+"
+INCYTE CORPORATION
+","1,253",Healthcare,"2,150.000 Million USD",NULL,USA,Northern America,https://www.incyte.com/
+"
+EMS-CHEMIE HOLDING AG
+",815,Basic Materials,"1,964.200 Million USD",NULL,Switzerland,Western Europe,https://www.ems-group.com
+"
+CONTINENTAL AG
+",953,Consumer Cyclical,"52,484.000 Million USD",NULL,Germany,Western Europe,https://www.continental-corporation.com
+"
+PINTEREST
+",989,Communication Services,"1,140.000 Million USD",NULL,USA,Northern America,https://www.pinterest.com/
+"
+MALAYAN BANKING BERHAD
+",874,Financial Services,"5,803.900 Million USD",NULL,Malaysia,South East Asia,https://www.maybank.com
+"
+CARLSBERG A/S
+",859,Consumer Defensive,"10,544.000 Million USD",NULL,Denmark,Northern Europe,https://carlsberggroup.com/
+"
+SOUTHWEST AIRLINES
+",781,Industries,"22,430.000 Million USD",NULL,USA,Northern America,https://www.southwest.com
+"
+ZALANDO SE
+","1,082",Consumer Cyclical,"9,418.800 Million USD",NULL,Germany,Western Europe,https://www.zalando.se/
+"
+SKANDINAVISKA ENSKILDA BANKEN AB (PUBL.)
+",693,Financial Services,"5,970.000 Million USD",NULL,Sweden,Northern Europe,https://sebgroup.com/
+"
+EQUITY RESIDENTIAL
+",617,Real Estate,"2,701.000 Million USD",NULL,USA,Northern America,https://www.equityapartments.com/
+"
+HAIER SMART HOME
+",461,Technology,"31,459.000 Million USD",NULL,China,Eastern Asia,http://www.haier.net/
+"
+QINGDAO HAIER BIOMEDICAL
+","3,774",Healthcare,210.000 Million USD,NULL,China,Eastern Asia,http://www.haier.net/en/
+"
+WIPRO
+",348,Technology,"8,302.100 Million USD",Thierry Delaporte,India,Southern Asia,https://www.wipro.com/en-IN/
+"
+GEBERIT AG
+",726,Industries,"3,254.700 Million USD",NULL,Switzerland,Western Europe,https://www.geberit.com/en/
+"
+CHOCOLADEFABRIKEN LINDT & SPRUNGLI AG
+",682,Consumer Defensive,"4,377.400 Million USD",NULL,Switzerland,Western Europe,https://www.lindt-spruengli.com/
+"
+SHIMANO
+",861,Consumer Cyclical,"3,440.200 Million USD",NULL,Japan,Eastern Asia,https://www.shimano.com/
+"
+HANNOVER RUCK SE
+",884,Financial Services,"25,979.000 Million USD",NULL,Germany,Western Europe,https://www.hannover-re.com/
+"
+CK ASSET HOLDINGS
+",908,Real Estate,"10,710.000 Million USD",NULL,Hong Kong,Eastern Asia,https://www.ckah.com/eng/
+"
+KUBOTA CORPORATION
+",767,Industries,"17,472.000 Million USD",NULL,Japan,Eastern Asia,https://www.kubota.com/
+"
+COUPA SOFTWARE
+","1,841",Technology,603.000 Million USD,NULL,USA,Northern America,https://www.coupa.com/
+"
+TD AMERITRADE HOLDING CORPORATION
+",NULL,Financial Services,"5,870.000 Million USD",NULL,USA,Northern America,https://www.amtd.com
+"
+GUOSEN SECURITIES
+","1,186",Financial Services,"2,740.100 Million USD",NULL,China,Eastern Asia,http://www.guosen.com.cn/
+"
+GF SECURITIES
+",865,Financial Services,"4,216.900 Million USD",NULL,China,Eastern Asia,http://en.gf.com.cn/
+"
+FLEETCOR TECHNOLOGIES
+","1,051",Technology,"2,650.000 Million USD",NULL,USA,Northern America,https://www.fleetcor.com/
+"
+KOMATSU
+",886,Industries,"22,248.000 Million USD",NULL,Japan,Eastern Asia,https://home.komatsu/en/
+"
+WEST PHARMACEUTICAL SERVICES
+",723,Healthcare,"1,840.000 Million USD",NULL,USA,Northern America,https://www.westpharma.com/
+"
+AMERISOURCEBERGEN CORPORATION
+",749,Healthcare,"189,890.000 Million USD",NULL,USA,Northern America,https://www.amerisourcebergen.com
+"
+CGN POWER
+",964,Utilities,"9,131.200 Million USD",NULL,China,Eastern Asia,http://en.cgnpc.com.cn/
+"
+AMEREN CORPORATION
+",922,Utilities,"5,910.000 Million USD",NULL,USA,Northern America,https://www.ameren.com/
+"
+PT TELEKOMUNIKASI INDONESIA TBK
+",727,Communication Services,"9,353.400 Million USD",NULL,Indonesia,South East Asia,https://www.telkom.co.id
+"
+ARTHUR J. GALLAGHER
+",607,Financial Services,"7,030.000 Million USD",NULL,USA,Northern America,https://www.ajg.com/
+"
+TAKE-TWO INTERACTIVE SOFTWARE
+","1,088",Communication Services,"3,089.000 Million USD",NULL,USA,Northern America,https://www.take2games.com/
+"
+GEELY AUTOMOBILE HOLDINGS
+",841,Consumer Cyclical,"14,610.000 Million USD",NULL,Hong Kong,Eastern Asia,http://www.geelyauto.com.hk/en/
+"
+SIMON PROPERTY GROUP
+",356,Real Estate,"5,750.000 Million USD",David Simon,USA,Northern America,https://www.simon.com/
+"
+FERROVIAL
+",958,Industries,"7,143.700 Million USD",NULL,Spain,South Europe,https://www.ferrovial.com/
+"
+LENS TECHNOLOGY
+","1,200",Technology,"4,538.600 Million USD",NULL,China,Eastern Asia,http://www.hnlens.com/
+"
+MICHELIN
+",680,Consumer Cyclical,"28,479.000 Million USD",NULL,France,Western Europe,https://www.michelin.com
+"
+ENTERGY CORPORATION
+",930,Utilities,"10,870.000 Million USD",NULL,USA,Northern America,https://www.entergy.com/
+"
+PELOTON INTERACTIVE
+","1,637",Consumer Cyclical,"1,825.000 Million USD",NULL,USA,Northern America,https://www.onepeloton.com/
+"
+LOBLAW COMPANIES
+",768,Consumer Defensive,"38,045.000 Million USD",NULL,Canada,Northern America,http://www.loblaw.ca/en.html
+"
+GARMIN
+",835,Technology,"3,750.000 Million USD",NULL,USA,Northern America,https://www.garmin.com/
+"
+ANGLO AMERICAN PLATINUM
+",671,Basic Materials,"9,507.500 Million USD",NULL,South Africa,Southern Africa,https://www.angloamericanplatinum.com/
+"
+MPLX LP
+",661,Energy,"8,620.000 Million USD",NULL,USA,Northern America,http://www.mplx.com/
+"
+GOERTEK
+",752,Technology,"5,272.100 Million USD",NULL,China,Eastern Asia,https://www.goertek.com/
+"
+FIRST REPUBLIC BANK
+",565,Financial Services,"3,254.000 Million USD",NULL,USA,Northern America,https://www.firstrepublic.com/
+"
+SHENZHEN KANGTAI BIOLOGICAL PRODUCTS
+","1,935",Healthcare,291.450 Million USD,NULL,China,Eastern Asia,http://www.biokangtai.com/
+"
+EDISON INTERNATIONAL
+",850,Utilities,"12,340.000 Million USD",NULL,USA,Northern America,https://www.edison.com/
+"
+PT BANK MANDIRI (PERSERO) TBK
+",910,Financial Services,"5,562.200 Million USD",NULL,Indonesia,South East Asia,https://www.bankmandiri.co.id/
+"
+EQUIFAX
+",640,Industries,"3,510.000 Million USD",NULL,USA,Northern America,https://www.equifax.com
+"
+SHIONOGI
+","1,037",Healthcare,"31,741.000 Million USD",NULL,Japan,Eastern Asia,http://www.shionogi.co.jp/en/
+"
+YONYOU NETWORK TECHNOLOGY
+","1,126",Technology,"1,278.600 Million USD",NULL,China,Eastern Asia,https://www.yonyou.com.hk/
+"
+KNORR-BREMSE
+","1,256",Consumer Cyclical,"8,184.500 Million USD",NULL,Germany,Western Europe,https://www.knorr-bremse.com/
+"
+HENDERSON LAND DEVELOPMENT COMPANY
+","1,019",Real Estate,"3,627.600 Million USD",NULL,Hong Kong,Eastern Asia,http://www.hld.com/
+"
+SHENWAN HONGYUAN GROUP
+","1,104",Financial Services,"3,646.700 Million USD",NULL,China,Eastern Asia,http://www.swhygh.com/
+"
+BIOMERIEUX
+","1,322",Healthcare,"3,619.100 Million USD",NULL,France,Western Europe,https://www.biomerieux.com/
+"
+BANCO SANTANDER BRASIL SA
+","1,025",Financial Services,"9,268.000 Million USD",Sergio Rial,Brazil,South America,https://www.santander.com.br
+"
+SVENSKA HANDELSBANKEN AB (PUBL)
+",947,Financial Services,"5,392.000 Million USD",NULL,Sweden,Northern Europe,https://www.handelsbanken.com/
+"
+SGS SA
+",869,Industries,"6,108.400 Million USD",NULL,Switzerland,Western Europe,https://www.sgs.com/
+"
+CHINA RAILWAY GROUP
+",937,Industries,"127,410.000 Million USD",NULL,China,Eastern Asia,http://www.crec.cn/
+"
+AGNICO EAGLE MINES
+","1,589",Basic Materials,"3,138.000 Million USD",NULL,Canada,Northern America,https://www.agnicoeagle.com
+"
+NEWCREST MINING
+","1,426",Basic Materials,"5,330.000 Million USD",NULL,Australia,"Australia, New Zealand",http://www.newcrest.com.au/
+"
+BANCO BILBAO VIZCAYA ARGENTARIA
+",482,Financial Services,"28,545.000 Million USD",Onur Genc,Spain,South Europe,https://www.bbva.es
+"
+FORTIS
+",951,Utilities,"6,956.100 Million USD",NULL,Canada,Northern America,https://www.fortisinc.com/
+"
+AVENUE SUPERMARTS
+",492,Consumer Defensive,813.280 Million USD,NULL,India,Southern Asia,http://www.dmartindia.com/
+"
+FUJIFILM HOLDINGS CORPORATION
+",698,Industries,"21,066.000 Million USD",NULL,Japan,Eastern Asia,https://www.fujifilmholdings.com/
+"
+MARKETAXESS HOLDINGS
+","1,398",Financial Services,689.000 Million USD,NULL,USA,Northern America,https://www.marketaxess.com/
+"
+CHINA MERCHANTS SHEKOU INDUSTRIAL ZONE HOLDINGS
+","1,164",Real Estate,"14,651.000 Million USD",NULL,China,Eastern Asia,https://www.cmsk1979.com/
+"
+SUZUKI MOTOR CORPORATION
+","1,064",Consumer Cyclical,"31,741.000 Million USD",NULL,Japan,Eastern Asia,https://www.globalsuzuki.com/
+"
+W.W. GRAINGER
+",809,Industries,"11,480.000 Million USD",NULL,USA,Northern America,https://www.grainger.com/
+"
+ZILLOW GROUP
+","1,406",Communication Services,"3,340.000 Million USD",NULL,USA,Northern America,https://www.zillowgroup.com/
+"
+DEUTSCHE BANK
+",712,Financial Services,"27,203.000 Million USD",NULL,Germany,Western Europe,https://www.db.com
+"
+EDP - ENERGIAS DE PORTUGAL
+","1,017",Utilities,"14,689.000 Million USD",NULL,Portugal,South Europe,https://www.edp.com/en
+"
+HENGLI PETROCHEMICAL
+",792,Consumer Cyclical,"15,117.000 Million USD",NULL,China,Eastern Asia,http://www.henglipc.com
+"
+AMERIPRISE FINANCIAL
+",581,Financial Services,"12,890.000 Million USD",NULL,USA,Northern America,https://www.ameriprise.com/
+"
+KINDRED GROUP
+","5,188",Consumer Cyclical,"1,559.400 Million USD",NULL,Malta,South Europe,https://www.kindredgroup.com/
+"
+GREAT-WEST LIFECO
+",735,Financial Services,"35,401.000 Million USD",NULL,Canada,Northern America,https://www.greatwestlifeco.com/
+"
+PORSCHE AUTOMOBIL HOLDING SE
+",670,Consumer Cyclical,"33,651.000 Million USD",NULL,Germany,Western Europe,https://www.porsche-se.com/
+"
+YUNNAN BAIYAO GROUP
+","1,009",Healthcare,"4,911.300 Million USD",NULL,China,Eastern Asia,http://www.yunnanbaiyao.com.cn/
+"
+CONAGRA BRANDS
+","1,217",Consumer Defensive,"11,050.000 Million USD",NULL,USA,Northern America,https://www.conagrabrands.com/
+"
+NATIONAL BANK OF KUWAIT
+",889,Banking Services,"2,806.500 Million USD",NULL,Kuwait,Western Asia,https://www.nbk.com/
+"
+TOP GLOVE CORPORATION BHD
+","3,429",Healthcare,"1,736.900 Million USD",NULL,Malaysia,South East Asia,https://www.topglove.com/
+"
+VERBUND AG
+",332,Utilities,"3,816.100 Million USD",NULL,Austria,Western Europe,https://www.verbund.com/
+"
+EMIRATES NBD
+",905,Banking Services,"6,310.000 Million USD",NULL,UAE,Western Asia,https://www.emiratesnbd.com/en/
+"
+AKZO NOBEL
+","1,003",Basic Materials,"10,946.000 Million USD",NULL,Netherlands,Western Europe,https://www.akzonobel.com
+"
+ROKU
+",868,Communication Services,"1,130.000 Million USD",NULL,USA,Northern America,https://www.roku.com/
+"
+SIEMENS GAMESA RENEWABLE ENERGY
+","1,304",Industries,"11,190.000 Million USD",NULL,Spain,South Europe,https://www.siemensgamesa.com/
+"
+CHINA FEIHE
+","1,650",Consumer Defensive,"2,058.200 Million USD",NULL,China,Eastern Asia,http://www.feihe.com/
+"
+SYMRISE AG
+","1,047",Basic Materials,"4,153.600 Million USD",NULL,Germany,Western Europe,https://www.symrise.com/
+"
+COUNTRY GARDEN SERVICES HOLDINGS COMPANY
+","1,170",Real Estate,"2,340.000 Million USD",NULL,China,Eastern Asia,http://www.bgyfw.com/
+"
+MAXIM INTEGRATED PRODUCTS
+","1,001",Technology,"2,190.000 Million USD",NULL,USA,Northern America,https://www.maximintegrated.com/
+"
+TELADOC HEALTH
+","1,507",Healthcare,"1,094.000 Million USD",NULL,USA,Northern America,https://www.teladoc.com/
+"
+RONGSHENG PETROCHEMICAL
+",713,Basic Materials,"12,375.000 Million USD",NULL,China,Eastern Asia,https://www.iflytek.com/
+"
+NATURGY ENERGY GROUP
+",679,Utilities,"27,181.000 Million USD",NULL,Spain,South Europe,https://www.naturgy.com/
+"
+PICC PROPERTY AND CASUALTY COMPANY
+","1,041",Financial Services,"59,772.000 Million USD",NULL,China,Eastern Asia,http://www.epicc.com.cn/
+"
+CANON
+",831,Technology,"32,696.000 Million USD",NULL,Japan,Eastern Asia,https://global.canon
+"
+LARSEN & TOUBRO
+",578,Industries,"5,751.900 Million USD",NULL,India,Southern Asia,http://www.larsentoubro.com/
+"
+NATWEST GROUP
+",545,Banking Services,"16,539.000 Million USD",Alison Rose,UK,Northern Europe,https://www.natwestgroup.com/
+"
+DEUTSCHE WOHNEN SE
+","1,325",Real Estate,"2,634.900 Million USD",NULL,Germany,Western Europe,https://www.deutsche-wohnen.com/
+"
+CP ALL PUBLIC COMPANY
+","1,300",Consumer Defensive,"16,302.000 Million USD",NULL,Thailand,South East Asia,https://www.cpall.co.th/en/home/
+"
+CGI
+","1,018",Technology,"9,591.900 Million USD",NULL,Canada,Northern America,https://www.cgi.com/india/en
+"
+PACIFIC GAS & ELECTRIC CORPORATION
+",757,Utilities,"18,469.000 Million USD",NULL,USA,Northern America,https://www.pge.com/
+"
+ROLLINS
+","1,224",Consumer Cyclical,"2,161.000 Million USD",NULL,USA,Northern America,https://www.rollins.com/
+"
+AKAMAI TECHNOLOGIES
+","1,142",Technology,"3,198.000 Million USD",NULL,USA,Northern America,https://www.akamai.com/
+"
+CHECK POINT SOFTWARE TECHNOLOGIES
+","1,276",Technology,"2,064.000 Million USD",NULL,Israel,Western Asia,https://www.checkpoint.com/
+"
+TOYOTA INDUSTRIES CORPORATION
+",806,Consumer Cyclical,"19,756.000 Million USD",NULL,Japan,Eastern Asia,https://www.toyota-industries.com
+"
+SCOTTISH MORTGAGE INVESTMENT TRUST
+",890,Financial Services,"1,351.000 Million USD",NULL,UK,Northern Europe,https://www.bailliegifford.com/
+"
+360 SECURITY TECHNOLOGY
+","1,416",Technology,"1,926.200 Million USD",NULL,China,Eastern Asia,http://www.360.cn/
+"
+KEYSIGHT TECHNOLOGIES
+",605,Technology,"4,300.000 Million USD",NULL,USA,Northern America,https://www.keysight.com
+"
+ENERGY TRANSFER LP
+",714,Energy,"54,210.000 Million USD",Kelcy Warre,USA,Northern America,https://www.energytransfer.com/
+"
+COLES GROUP
+","1,220",Consumer Cyclical,"27,960.000 Million USD",Steven Cain,Australia,"Australia, New Zealand",https://www.colesgroup.com.au
+"
+COCA-COLA EUROPACIFIC PARTNERS PLC
+",797,Consumer Defensive,"14,180.000 Million USD",NULL,UK,Northern Europe,https://www.cocacolaep.com/
+"
+CATHAY FINANCIAL HOLDING
+",711,Financial Services,"19,926.000 Million USD",NULL,Taiwan,South East Asia,https://www.cathayholdings.com
+"
+TRACTOR SUPPLY COMPANY
+",814,Consumer Cyclical,"10,620.000 Million USD",NULL,USA,Northern America,https://www.tractorsupply.com/
+"
+AMCOR
+","1,117",Consumer Cyclical,"12,460.000 Million USD",NULL,Australia,"Australia, New Zealand",https://www.amcor.com/
+"
+3I GROUP
+",410,Financial Services,318.780 Million USD,NULL,UK,Northern Europe,https://www.3i.com/
+"
+WENS FOODSTUFF GROUP
+","1,034",Consumer Defensive,"10,968.000 Million USD",NULL,China,Eastern Asia,http://www.wens.com.cn/
+"
+SUNNY OPTICAL TECHNOLOGY (GROUP) COMPANY
+",674,Technology,"5,677.200 Million USD",NULL,China,Eastern Asia,http://www.sunnyoptical.com/en/default.html
+"
+CITRIX SYSTEMS
+","1,619",Technology,"3,237.000 Million USD",NULL,USA,Northern America,https://www.citrix.com/
+"
+SSE PLC
+",885,Utilities,"9,385.400 Million USD",NULL,UK,Northern Europe,http://sse.com/
+"
+ZSCALER
+",564,Technology,431.000 Million USD,NULL,USA,Northern America,https://www.zscaler.com/
+"
+DISH NETWORK CORPORATION
+","1,130",Communication Services,"12,810.000 Million USD",NULL,USA,Northern America,https://www.dish.com/
+"
+SWEDBANK AB (PUBL)
+",918,Financial Services,"5,408.600 Million USD",NULL,Sweden,Northern Europe,https://www.swedbank.com/
+"
+ADVANCED INFO SERVICE PUBLIC COMPANY
+","1,062",Communication Services,"5,359.600 Million USD",NULL,Thailand,South East Asia,http://investor.ais.co.th/
+"
+LABORATORY CORPORATION OF AMERICA HOLDINGS
+",760,Healthcare,"11,554.000 Million USD",NULL,USA,Northern America,https://www.labcorp.com/
+"
+CHINA MENGNIU DAIRY COMPANY
+",896,Consumer Defensive,"11,854.000 Million USD",NULL,Hong Kong,Eastern Asia,http://www.mengniuir.com
+"
+AXIS BANK
+",702,Financial Services,"10,407.000 Million USD",NULL,India,Southern Asia,https://www.axisbank.com/
+"
+LEGAL & GENERAL GROUP
+",842,Financial Services,"92,165.000 Million USD",NULL,UK,Northern Europe,https://www.legalandgeneralgroup.com/
+"
+ZHANGZHOU PIENTZEHUANG PHARMACEUTICAL. LTD
+",549,Healthcare,858.300 Million USD,NULL,China,Eastern Asia,https://www.zzpzh.com/
+"
+CARMAX
+","1,058",Consumer Cyclical,"18,950.000 Million USD",NULL,USA,Northern America,https://www.carmax.com/
+"
+DAIWA HOUSE INDUSTRY
+","1,087",Real Estate,"39,858.000 Million USD",NULL,Japan,Eastern Asia,https://www.daiwahouse.com/
+"
+DELTA AIR LINES
+",794,Industries,"47,000.000 Million USD",Ed Bastian,USA,Northern America,https://www.delta.com/
+"
+BIONTECH SE
+",369,Healthcare,568.760 Million USD,NULL,Germany,Western Europe,https://biontech.de/
+"
+FORTUM OYJ
+",805,Utilities,"6,427.500 Million USD",NULL,Finland,Northern Europe,https://www.fortum.com/
+"
+TAKEAWAY.COM
+",NULL,Communication Services,NULL,NULL,Netherlands,Western Europe,https://www.takeaway.com/
+"
+SAUDI ELECTRICITY COMPANY
+",774,Utilities,"48,130.000 Million USD",NULL,Saudi Arabia,Western Asia,https://www.se.com.sa
+"
+JUST EAT TAKEAWAY.COM
+","1,782",Retail,"2,409.600 Million USD",NULL,Netherlands,Western Europe,https://www.justeatplc.com/
+"
+NATIONAL BANK OF CANADA
+",788,Financial Services,"6,256.000 Million USD",NULL,Canada,Northern America,https://www.nbc.ca/
+"
+CMS ENERGY CORPORATION
+","1,095",Utilities,"6,840.000 Million USD",NULL,USA,Northern America,https://www.cmsenergy.com
+"
+TELEFLEX
+","1,366",Healthcare,"2,590.000 Million USD",NULL,USA,Northern America,https://www.teleflex.com
+"
+HOLOGIC
+","1,159",Healthcare,"3,776.000 Million USD",NULL,USA,Northern America,https://www.hologic.com/
+"
+FORMOSA PLASTICS CORPORATION
+",866,Basic Materials,"7,482.500 Million USD",NULL,Taiwan,South East Asia,http://www.fpcusa.com/
+"
+KANSAS CITY SOUTHERN
+",766,Industries,"2,632.000 Million USD",NULL,USA,Northern America,http://www.kcsouthern.com/
+"
+TELEPERFORMANCE SE
+",810,Industries,"6,774.400 Million USD",NULL,France,Western Europe,https://www.teleperformance.com/
+"
+WEICHAI POWER
+",907,Industries,"26,154.000 Million USD",NULL,China,Eastern Asia,https://www.weichaipower.com/
+"
+EPAM SYSTEMS
+",667,Technology,"2,659.000 Million USD",NULL,USA,Northern America,https://www.epam.com/
+"
+SHANGHAI FOSUN PHARMACEUTICAL (GROUP)
+","1,185",Healthcare,"4,546.100 Million USD",NULL,China,Eastern Asia,https://www.fosunpharma.com/en/
+"
+SMITH & NEPHEW
+","1,290",Healthcare,"4,560.000 Million USD",NULL,UK,Northern Europe,http://www.smith-nephew.com/
+"
+SURGUTNEFTEGAS
+","1,119",Energy,"20,223.000 Million USD",Vladimir Bogdanov,Russia,Eastern Europe,https://www.surgutneftegas.ru/en/
+"
+EQT AB (PUBL)
+",402,Financial Services,"8,362.700 Million USD",NULL,Sweden,Northern Europe,https://www.eqtgroup.com/
+"
+CHINA RAILWAY CONSTRUCTION CORPORATION
+","1,208",Industries,"140,540.000 Million USD",NULL,China,Eastern Asia,http://www.crcc.cn/
+"
+NOMURA RESEARCH INSTITUTE
+",944,Technology,"4,812.700 Million USD",NULL,Japan,Eastern Asia,https://www.nri.com/en
+"
+NORTHERN TRUST CORPORATION
+",776,Financial Services,"5,290.000 Million USD",NULL,USA,Northern America,https://www.northerntrust.com/
+"
+THALES
+","1,099",Industries,"21,713.000 Million USD",NULL,France,Western Europe,https://www.thalesgroup.com
+"
+KINGSPAN GROUP
+",839,Industries,"4,576.000 Million USD",NULL,Ireland,Northern Europe,https://www.kingspan.com
+"
+MITSUI FUDOSAN
+","1,077",Real Estate,"17,336.000 Million USD",NULL,Japan,Eastern Asia,https://www.mitsuifudosan.co.jp/
+"
+ARISTA NETWORKS
+",511,Technology,"2,410.000 Million USD",NULL,USA,Northern America,https://www.arista.com
+"
+SNAM
+","1,073",Utilities,"3,144.700 Million USD",NULL,Italy,South Europe,https://www.snam.it/
+"
+BANCO DO BRASIL
+","1,391",Financial Services,"17,570.000 Million USD",Andre Guilherme Brandao,Brazil,South America,https://www.bb.com.br
+"
+EPIROC AB (PUBL)
+",720,Industries,"4,333.400 Million USD",NULL,Sweden,Northern Europe,https://www.epirocgroup.com/
+"
+SYSMEX CORPORATION
+",909,Healthcare,"2,748.000 Million USD",NULL,Japan,Eastern Asia,https://www.sysmex.com/
+"
+DELTA ELECTRONICS
+",790,Technology,"10,174.000 Million USD",NULL,Taiwan,South East Asia,https://www.deltaww.com/
+"
+PAYCOM SOFTWARE
+",975,Technology,737.000 Million USD,NULL,USA,Northern America,https://www.paycom.com/
+"
+NAN YA PLASTICS CORPORATION
+",846,Basic Materials,"10,307.000 Million USD",NULL,Taiwan,South East Asia,https://www.npc.com.tw
+"
+PIONEER NATURAL RESOURCES COMPANY
+",400,Energy,"9,670.000 Million USD",NULL,USA,Northern America,http://www.pxd.com/
+"
+CHINA COMMUNICATIONS CONSTRUCTION COMPANY
+","1,072",Industries,"83,219.000 Million USD",NULL,China,Eastern Asia,http://en.ccccltd.cn/
+"
+NIO INC
+",416,Consumer Cyclical,"1,173.600 Million USD",NULL,China,Eastern Asia,https://www.nio.com/
+"
+BANK OF SHANGHAI
+","1,252",Financial Services,"7,471.200 Million USD",NULL,China,Eastern Asia,http://www.bosc.cn/
+"
+TRIP.COM GROUP
+","1,266",Consumer Cyclical,"5,349.900 Million USD",NULL,China,Eastern Asia,http://www.ctrip.com/
+"
+VULCAN MATERIALS COMPANY
+",754,Basic Materials,"4,930.000 Million USD",NULL,USA,Northern America,https://www.vulcanmaterials.com/
+"
+SANAN OPTOELECTRONICS
+",855,Technology,"1,119.000 Million USD",NULL,China,Eastern Asia,http://www.sanan-e.com/en/
+"
+SUN PHARMACEUTICAL INDUSTRIES
+",789,Healthcare,"4,268.800 Million USD",NULL,India,Southern Asia,http://www.sunpharma.com/
+"
+HORIZON THERAPEUTICS PUBLIC COMPANY
+",940,Healthcare,"2,200.000 Million USD",NULL,Ireland,Northern Europe,https://www.horizontherapeutics.com/
+"
+SHANDONG GOLD MINING
+","1,601",Basic Materials,"9,549.600 Million USD",NULL,China,Eastern Asia,http://en.sd-gold.com/
+"
+HYUNDAI MOBIS
+","1,016",Consumer Cyclical,"32,231.000 Million USD",NULL,South Korea,Eastern Asia,http://en.mobis.co.kr
+"
+LINK REAL ESTATE INVESTMENT TRUST
+","1,122",Real Estate,"1,393.300 Million USD",NULL,Hong Kong,Eastern Asia,https://www.linkreit.com/
+"
+DOMINO'S PIZZA
+","1,114",Consumer Cyclical,"4,117.000 Million USD",NULL,USA,Northern America,https://www.dominos.com
+"
+VIACOM CBS
+",904,Communication Services,"27,810.000 Million USD",NULL,USA,Northern America,https://www.viacom.com/
+"
+KIRIN HOLDINGS COMPANY
+","1,481",Consumer Defensive,"17,663.000 Million USD",NULL,Japan,Eastern Asia,https://www.kirinholdings.co.jp/
+"
+PJSC TATNEFT
+","1,375",Energy,"9,368.700 Million USD",NULL,Russia,Eastern Europe,http://www.tatneft.ru/
+"
+SLACK TECHNOLOGIES
+",750,Technology,902.000 Million USD,NULL,USA,Northern America,https://slack.com/
+"
+NTT DATA CORPORATION
+",745,Technology,"20,630.000 Million USD",NULL,Japan,Eastern Asia,https://www.nttdata.com/
+"
+RYANAIR HOLDINGS
+",802,Industries,"10,023.000 Million USD",NULL,Ireland,Northern Europe,https://investor.ryanair.com/
+"
+INVITATION HOMES
+",826,Real Estate,"1,760.000 Million USD",NULL,USA,Northern America,https://www.invitationhomes.com/
+"
+RESTAURANT BRANDS INTERNATIONAL
+","1,121",Consumer Cyclical,"4,960.000 Million USD",NULL,Canada,Northern America,https://www.rbi.com/
+"
+NOVOZYMES A/S
+",959,Healthcare,"2,241.900 Million USD",NULL,Denmark,Northern Europe,https://www.novozymes.com/en
+"
+STANDARD CHARTERED
+","1,022",Financial Services,"17,926.000 Million USD",Bill Winters,UK,Northern Europe,https://www.sc.com
+"
+LARGAN PRECISION
+","1,614",Industries,"2,186.800 Million USD",NULL,Taiwan,South East Asia,http://www.largan.com.tw
+"
+SWIRE PROPERTIES
+","1,331",Real Estate,"1,730.000 Million USD",NULL,Hong Kong,Eastern Asia,https://www.swireproperties.com/en/
+"
+CHINA SHIPBUILDING INDUSTRY COMPANY
+","1,332",Industries,"5,708.400 Million USD",NULL,China,Eastern Asia,http://www.dsic.cn/
+"
+ORIX CORPORATION
+",832,Financial Services,"12,112.000 Million USD",NULL,Japan,Eastern Asia,https://www.orix.co.jp
+"
+THE COOPER COMPANIES
+","1,028",Healthcare,"2,653.000 Million USD",NULL,USA,Northern America,http://www.coopercos.com/
+"
+PUBLIC BANK BERHAD
+","1,071",Banking Services,"2,713.400 Million USD",NULL,Malaysia,South East Asia,https://www.pbebank.com/
+"
+SS&C TECHNOLOGIES HOLDINGS
+",990,Technology,"4,667.000 Million USD",NULL,USA,Northern America,https://www.ssctech.com/
+"
+OBIC
+","1,329",Technology,732.440 Million USD,NULL,Japan,Eastern Asia,https://www.obic.co.jp/
+"
+GRIFOLS
+","1,735",Healthcare,"3,655.600 Million USD",NULL,Spain,South Europe,https://www.grifols.com
+"
+SUBARU CORPORATION
+","1,378",Consumer Cyclical,"30,430.000 Million USD",NULL,Japan,Eastern Asia,https://www.subaru.co.jp/en/
+"
+SAMSUNG C&T CORPORATION
+","1,268",Industries,"26,590.000 Million USD",NULL,South Korea,Eastern Asia,http://www.samsungcnt.com
+"
+AFTERPAY
+","1,281",Technology,333.000 Million USD,NULL,Australia,"Australia, New Zealand",https://www.afterpay.com
+"
+BAKER HUGHES COMPANY
+",924,Energy,"23,840.000 Million USD",NULL,USA,Northern America,https://www.bhge.com/
+"
+ASAHI GROUP HOLDINGS
+","1,032",Consumer Defensive,"19,010.000 Million USD",NULL,Japan,Eastern Asia,https://www.asahigroup-holdings.com/en/
+"
+ENBW ENERGIE BADEN-WURTTEMBERG AG
+",895,Utilities,"22,143.000 Million USD",NULL,Germany,Western Europe,https://www.enbw.com/
+"
+DAI-ICHI LIFE HOLDINGS
+",881,Financial Services,"58,538.000 Million USD",NULL,Japan,Eastern Asia,https://www.dai-ichi-life-hd.com/en/
+"
+CAMPBELL SOUP COMPANY
+","1,454",Consumer Defensive,"8,691.000 Million USD",NULL,USA,Northern America,https://www.campbellsoupcompany.com/
+"
+CDW CORPORATION
+",775,Technology,"18,460.000 Million USD",NULL,USA,Northern America,https://www.cdw.com/
+"
+ALNYLAM PHARMACEUTICALS
+","1,156",Healthcare,492.000 Million USD,NULL,USA,Northern America,https://www.alnylam.com/
+"
+BAOSHAN IRON & STEEL
+",791,Basic Materials,"43,806.000 Million USD",NULL,China,Eastern Asia,http://www.baosteel.com
+"
+ASHTEAD GROUP
+",561,Industries,"6,974.500 Million USD",NULL,UK,Northern Europe,http://www.ashtead-group.com/
+"
+DOVER CORPORATION
+",800,Industries,"7,130.000 Million USD",NULL,USA,Northern America,https://www.dovercorporation.com/
+"
+QUEST DIAGNOSTICS
+","1,079",Healthcare,"9,437.000 Million USD",NULL,USA,Northern America,https://www.questdiagnostics.com
+"
+WORLDLINE
+","1,242",Technology,"2,809.600 Million USD",NULL,France,Western Europe,https://worldline.com/
+"
+TRANSUNION
+",976,Industries,"2,710.000 Million USD",NULL,USA,Northern America,https://www.transunion.com/
+"
+BROADRIDGE FINANCIAL SOLUTIONS
+","1,036",Technology,"4,529.000 Million USD",NULL,USA,Northern America,https://www.broadridge.com
+"
+STRAUMANN HOLDING AG
+",669,Healthcare,"1,554.300 Million USD",NULL,Switzerland,Western Europe,https://www.straumann.com
+"
+FOX CORPORATION
+",973,Communication Services,"12,300.000 Million USD",NULL,USA,Northern America,https://www.foxcorporation.com/
+"
+HDFC LIFE INSURANCE COMPANY
+","1,150",Financial Services,"3,727.100 Million USD",NULL,India,Southern Asia,https://www.hdfclife.com/
+"
+ULTRATECH CEMENT
+",718,Basic Materials,"5,476.100 Million USD",NULL,India,Southern Asia,https://www.ultratechcement.com/
+"
+VARIAN MEDICAL SYSTEMS
+","1,246",Healthcare,"3,168.000 Million USD",NULL,USA,Northern America,https://www.varian.com/
+"
+WIX.COM
+","2,181",Technology,988.000 Million USD,NULL,Israel,Western Asia,https://www.wix.com
+"
+EUROFINS SCIENTIFIC SE
+",971,Healthcare,"6,416.800 Million USD",NULL,Luxembourg,Western Europe,https://www.eurofins.com/
+"
+NVR
+","1,089",Consumer Cyclical,"7,546.000 Million USD",NULL,USA,Northern America,http://www.nvrinc.com/
+"
+INTACT FINANCIAL CORPORATION
+",912,Financial Services,"8,988.400 Million USD",NULL,Canada,Northern America,http://www.intactcf.com/
+"
+NISSAN MOTOR
+",978,Consumer Cyclical,"89,899.000 Million USD",NULL,Japan,Eastern Asia,https://www.nissan-global.com
+"
+NOMURA HOLDINGS
+","1,448",Financial Services,"10,753.000 Million USD",NULL,Japan,Eastern Asia,https://www.nomuraholdings.com
+"
+ITAUSA - INVESTIMENTOS ITAU
+","1,392",Financial Services,"2,919.800 Million USD",NULL,Brazil,South America,http://www.itausa.com.br/
+"
+ETSY
+",892,Consumer Cyclical,818.000 Million USD,NULL,USA,Northern America,https://www.etsy.com
+"
+BILIBILI
+","1,373",Communication Services,"1,016.700 Million USD",NULL,China,Eastern Asia,https://www.bilibili.com/
+"
+CHINA GAS HOLDINGS
+","1,750",Utilities,"45,576.000 Million USD",NULL,Hong Kong,Eastern Asia,http://www.chinagasholdings.com.hk/
+"
+VENTAS
+",974,Real Estate,"3,780.000 Million USD",NULL,USA,Northern America,https://www.ventasreit.com/
+"
+IMPERIAL BRANDS
+",988,Consumer Defensive,"43,600.000 Million USD",NULL,UK,Northern Europe,http://www.imperialbrandsplc.com
+"
+ORACLE CORPORATION JAPAN
+","1,959",Technology,"1,923.300 Million USD",NULL,Japan,Eastern Asia,https://www.oracle.com/jp/index.html
+"
+MS&AD INSURANCE GROUP HOLDINGS
+","1,131",Financial Services,"45,900.000 Million USD",NULL,Japan,Eastern Asia,https://www.ms-ad-hd.com
+"
+AYALA CORPORATION
+","1,188",Industries,"4,075.000 Million USD",NULL,Philippines,South East Asia,https://www.ayala.com.ph/
+"
+PAN PACIFIC INTERNATIONAL HOLDINGS CORPORATION
+","2,219",Consumer Defensive,"15,306.000 Million USD",NULL,Japan,Eastern Asia,https://ppi-hd.co.jp/en
+"
+BIO-RAD LABORATORIES
+","1,043",Healthcare,"2,545.000 Million USD",NULL,USA,Northern America,http://www.bio-rad.com/
+"
+CSPC PHARMACEUTICAL GROUP
+","1,485",Healthcare,"3,741.300 Million USD",NULL,China,Eastern Asia,https://www.cspc.com.hk
+"
+STONECO
+","3,294",Technology,635.800 Million USD,NULL,Brazil,South America,https://www.stone.co/
+"
+ALTICE USA
+","2,426",Communication Services,"9,760.000 Million USD",NULL,USA,Northern America,http://alticeusa.com/
+"
+SHIMAO PROPERTY HOLDINGS
+","5,751",Real Estate,"20,303.000 Million USD",NULL,China,Eastern Asia,http://www.shimaoproperty.com
+"
+MASCO CORPORATION
+","1,243",Industries,"7,188.000 Million USD",NULL,USA,Northern America,http://masco.com/
+"
+KUWAIT FINANCE HOUSE
+",901,Banking Services,"2,972.400 Million USD",NULL,Kuwait,Western Asia,https://www.kfh.com/
+"
+AVARY HOLDING (SHENZHEN)
+","1,327",Technology,"4,437.100 Million USD",NULL,China,Eastern Asia,http://www.avaryholding.com
